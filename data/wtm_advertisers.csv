@@ -2,224 +2,224 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 5fe327f2-3165-4336-ae26-ebe432c8df06,Partit Laburista,2022-08-16T15:24:29.698Z,7d63110b-a091-4618-b005-2d6c553c8e94,PL,Malta,mt,162461360451180,Partit Laburista,Facebook
 4bca8b31-7a8f-48c6-b0cd-1e66a9140984,Partit Nazzjonalista,2022-08-16T15:24:29.755Z,011aa2b3-6eba-4952-b2a4-d9a9f785cf01,PN,Malta,mt,159249234115841,Partit Nazzjonalista,Facebook
 086a8231-db07-488c-a49e-ec2b410c1e93,Demokratiku,2022-08-16T15:24:29.784Z,f317f226-3b1a-4020-bebb-dee773e88085,AD+PD,Malta,mt,248442185536257,Demokratiku,Facebook
-b389f4ff-296f-4973-ab9a-a1923b85e4d9,Marc Vella Bonnici,2023-09-08T05:07:04.370Z,1d923a83-8d92-4b57-9477-393deda98538,PL,Malta,mt,160297774146114,Marc Vella Bonnici,Facebook
-e6d110a3-243f-4571-9ad3-a09ee74e6abd,Jean Paul Barbara,2023-07-17T06:32:11.998Z,80b4a368-dc79-468a-906a-9b399305e4f2,PN,Malta,mt,103750056119430,Jean Paul Barbara,Facebook
 b526ea36-aaea-49bf-af32-56d8288bd22f,Miriam Dalli,2023-09-07T05:06:42.217Z,722751c6-c051-4bf6-92f1-ad60084a9114,PL,Malta,mt,277980849002904,Miriam Dalli,Facebook
-396de4ad-b905-432c-9b48-81b87e1c108b,Ivan Bartolo,2023-02-07T15:04:58.804Z,f30edbd0-aea0-464f-a3bb-e2beed4853a3,PN,Malta,mt,111115483615131,Ivan Bartolo,Facebook
 2d50e0ab-0a6b-42c2-95d8-b3ec4a08d97a,Perit Toni Bezzina,2023-07-19T06:07:22.781Z,39694534-bea1-4282-9273-8d6d8224ee69,PN,Malta,mt,182685608490046,Perit Toni Bezzina,Facebook
-d1685440-d9fc-4d79-a060-6e213836e460,Cressida Galea,2023-02-13T10:53:37.520Z,858926a8-24ab-4bc5-8133-49080e3017cc,PL,Malta,mt,101585272105610,Cressida Galea,Facebook
+b389f4ff-296f-4973-ab9a-a1923b85e4d9,Marc Vella Bonnici,2023-09-08T05:07:04.370Z,1d923a83-8d92-4b57-9477-393deda98538,PL,Malta,mt,160297774146114,Marc Vella Bonnici,Facebook
 a714122b-45d2-4336-bda2-40ae1220f5c5,Alex Agius Saliba,2023-02-07T15:04:58.750Z,c9b02294-d23f-4f8d-a426-dafe8bf70583,PL,Malta,mt,656955664383156,Alex Agius Saliba,Facebook
+396de4ad-b905-432c-9b48-81b87e1c108b,Ivan Bartolo,2023-02-07T15:04:58.804Z,f30edbd0-aea0-464f-a3bb-e2beed4853a3,PN,Malta,mt,111115483615131,Ivan Bartolo,Facebook
+d1685440-d9fc-4d79-a060-6e213836e460,Cressida Galea,2023-02-13T10:53:37.520Z,858926a8-24ab-4bc5-8133-49080e3017cc,PL,Malta,mt,101585272105610,Cressida Galea,Facebook
+e6d110a3-243f-4571-9ad3-a09ee74e6abd,Jean Paul Barbara,2023-07-17T06:32:11.998Z,80b4a368-dc79-468a-906a-9b399305e4f2,PN,Malta,mt,103750056119430,Jean Paul Barbara,Facebook
 c313eb2b-b999-4515-be45-dee552240072,Ray Abela,2023-02-14T10:53:31.032Z,fedc6291-d24f-43fc-b58b-8b7328ca6c4c,PL,Malta,mt,578649719470540,Ray Abela,Facebook
-84f34d02-83b4-45be-bc45-0f5fe58cd08b,Volt Malta,2023-02-17T10:53:18.451Z,d0dad4fa-bbeb-4b93-bb62-e501d33e7cca,Oth,Malta,mt,1683577911708021,Volt Malta,Facebook
-831dca49-ebda-4c39-b154-09e96b7808e2,Cyrus Engerer,2023-02-07T15:04:58.727Z,cdef6f61-4371-4b20-b15a-4c8024fe2232,PL,Malta,mt,212468218793878,Cyrus Engerer,Facebook
 59a435eb-1026-476c-8da7-3aa94c9e9f1b,Peter Agius,2023-02-07T15:04:58.718Z,399e732e-544f-4f57-8769-eb28ca7d9a5c,PN,Malta,mt,263881160919130,Peter Agius,Facebook
-62cd1ef3-393f-4fbb-ad51-206fb82e0859,Graziella Attard Previ,2023-02-17T10:53:18.433Z,b835521f-e307-4090-8761-7e05d9b56381,PN,Malta,mt,562243087210860,Graziella Attard Previ,Facebook
+84f34d02-83b4-45be-bc45-0f5fe58cd08b,Volt Malta,2023-02-17T10:53:18.451Z,d0dad4fa-bbeb-4b93-bb62-e501d33e7cca,Oth,Malta,mt,1683577911708021,Volt Malta,Facebook
 50af2d53-2ad8-4f9b-8f2f-8d3741a24547,David Casa,2023-02-07T15:04:58.739Z,871181cf-3537-4fd1-8797-ed2d782c5bbe,PN,Malta,mt,193035580892638,David Casa,Facebook
-2bcc990f-631c-44e0-a1b1-a992693af31e,Alex Borg,2023-02-17T10:53:18.442Z,4edf827a-282b-4960-9308-4f73af97ebbe,PN,Malta,mt,569595716763663,Alex Borg,Facebook
+831dca49-ebda-4c39-b154-09e96b7808e2,Cyrus Engerer,2023-02-07T15:04:58.727Z,cdef6f61-4371-4b20-b15a-4c8024fe2232,PL,Malta,mt,212468218793878,Cyrus Engerer,Facebook
 b6bf9626-7313-426a-8cd7-5df70976d0ea,Robert Abela,2023-02-21T10:53:25.708Z,b8787d6f-b518-4825-8720-7a01b52ec2df,PL,Malta,mt,1343072129119715,Robert Abela,Facebook
-801881dd-2194-4729-8d44-7be370c76d5e,Stefan Zrinzo Azzopardi,2023-02-26T10:53:37.065Z,5b63ec6f-dc7e-4f70-b0b6-0672342504e8,PL,Malta,mt,962171353838693,Stefan Zrinzo Azzopardi,Facebook
 6aa177ae-8e6d-413b-84af-b98318cc2a18,Julian Borg,2023-02-26T10:53:37.003Z,ff5ba9de-db24-4a90-bd9d-aa2ffc91e458,PN,Malta,mt,1545088225724311,Julian Borg,Facebook
+62cd1ef3-393f-4fbb-ad51-206fb82e0859,Graziella Attard Previ,2023-02-17T10:53:18.433Z,b835521f-e307-4090-8761-7e05d9b56381,PN,Malta,mt,562243087210860,Graziella Attard Previ,Facebook
 ca21dc34-51a2-4bcf-9cdf-e70a7887be68,Ian Borg,2023-02-27T10:53:32.157Z,cf56228b-b5ab-4031-a113-295963ab4cb2,PL,Malta,mt,151496594943131,Ian Borg,Facebook
-f6cf1b47-fe43-43fc-bf06-814044e76e9d,Bernice Bonello,2023-03-05T10:53:38.733Z,77e80187-4f89-4bba-8cd4-38c30cc653c3,PN,Malta,mt,101196532056471,Bernice Bonello,Facebook
 a6e70f30-7ab7-473c-bc91-3af73fdc3df4,Andy Ellul,2023-02-24T10:53:32.600Z,4c054762-7d81-4c34-92be-646955baa775,PL,Malta,mt,268646240272422,Andy Ellul,Facebook
-a9daca0d-a3b0-48d5-885e-3da1862ec86f,Chris Bonett,2023-03-08T10:53:26.859Z,af6704ee-d1ad-429e-a451-1ea58c695034,PL,Malta,mt,2348335638559952,Chris Bonett,Facebook
+2bcc990f-631c-44e0-a1b1-a992693af31e,Alex Borg,2023-02-17T10:53:18.442Z,4edf827a-282b-4960-9308-4f73af97ebbe,PN,Malta,mt,569595716763663,Alex Borg,Facebook
 c22aa02b-c1db-4894-98bc-39cc66689685,Elenia Desira,2023-03-08T14:43:04.276Z,a8a47063-1831-4e2d-b1ea-9c09711c4f4a,PL,Malta,mt,636015460129738,Elenia Desira,Facebook
-da18e325-cb09-45ec-b6c1-f746e875af60,Alexia DeBono,2023-03-08T14:43:04.268Z,eb53e7e0-620a-4647-b9dd-f4c2388d387b,Oth,Malta,mt,103424638959296,Alexia DeBono,Facebook
 3afdafc7-eb8d-44d7-99e6-c76c666dac34,Liam Sciberras,2023-07-08T06:07:37.188Z,ac2391ca-c673-4513-bfe9-7d7e8f4cfee0,PN,Malta,mt,553963081407805,Liam Sciberras,Facebook
+801881dd-2194-4729-8d44-7be370c76d5e,Stefan Zrinzo Azzopardi,2023-02-26T10:53:37.065Z,5b63ec6f-dc7e-4f70-b0b6-0672342504e8,PL,Malta,mt,962171353838693,Stefan Zrinzo Azzopardi,Facebook
+2cd44a36-e185-4936-8c71-8fa5d0163b09,Graziella Galea,2023-02-26T10:53:37.086Z,a98f5950-a09b-4f9b-8d17-71208d85396f,PN,Malta,mt,323660891013809,Graziella Galea,Facebook
+f6cf1b47-fe43-43fc-bf06-814044e76e9d,Bernice Bonello,2023-03-05T10:53:38.733Z,77e80187-4f89-4bba-8cd4-38c30cc653c3,PN,Malta,mt,101196532056471,Bernice Bonello,Facebook
+08662819-c399-4ce2-8db8-f028b1cf5a91,Ryan Callus,2023-03-07T10:53:26.352Z,d9cf5183-cb1f-4e52-9121-d424da375c04,PN,Malta,mt,366906900097269,Ryan Callus,Facebook
+a9daca0d-a3b0-48d5-885e-3da1862ec86f,Chris Bonett,2023-03-08T10:53:26.859Z,af6704ee-d1ad-429e-a451-1ea58c695034,PL,Malta,mt,2348335638559952,Chris Bonett,Facebook
+738afcdf-901a-4b33-97cc-baa67e2481df,Dario Vella,2023-03-08T14:43:04.244Z,f71e0679-d70e-48c5-8f89-dae5a321b47c,PL,Malta,mt,418820864845546,Dario Vella,Facebook
+da18e325-cb09-45ec-b6c1-f746e875af60,Alexia DeBono,2023-03-08T14:43:04.268Z,eb53e7e0-620a-4647-b9dd-f4c2388d387b,Oth,Malta,mt,103424638959296,Alexia DeBono,Facebook
+e7a71a37-02c6-4bfb-a85e-a578fe454507,Rebekah Borg,2023-03-08T14:43:04.254Z,c4f940a1-6fdf-48c9-b55e-72766ed36332,PN,Malta,mt,2160573460895828,Rebekah Borg,Facebook
+2913ce86-d50f-4b16-a593-a902c8dde199,Francine Farrugia,2023-03-05T10:53:38.721Z,da4bf21b-6616-4154-bacb-df11b585bcf0,PN,Malta,mt,249229579276947,Francine Farrugia,Facebook
 fbdfd707-d1a5-488d-a02d-deb92ee4f63f,Rebecca Buttigieg,2023-03-29T10:53:21.827Z,4059a85e-6e63-4cbd-af60-d2323a4712cc,PL,Malta,mt,172037213467049,Rebecca Buttigieg,Facebook
 e8c8ac42-f0ad-4235-91f5-6a5c2f4f2d9c,Katya De Giovanni,2023-04-02T10:53:26.663Z,56a741c3-4c94-4a24-9f3c-0090da71b3a6,PL,Malta,mt,108016007632265,Katya De Giovanni,Facebook
-2cd44a36-e185-4936-8c71-8fa5d0163b09,Graziella Galea,2023-02-26T10:53:37.086Z,a98f5950-a09b-4f9b-8d17-71208d85396f,PN,Malta,mt,323660891013809,Graziella Galea,Facebook
+edf5188c-d347-4e03-91be-89500f1b4e59,Jonathan Attard,2023-03-08T14:43:04.254Z,95accfd4-b9ce-4238-85b4-6ee99c5088f9,PL,Malta,mt,102417405218853,Jonathan Attard,Facebook
 4b0a8dc6-5670-4d43-bcca-9cccd7d5826b,Clyde Caruana,2023-05-14T06:53:29.079Z,002aa036-8121-439f-bbd5-4eddb25d9ea4,PL,Malta,mt,1456808057941797,Clyde Caruana,Facebook
-08662819-c399-4ce2-8db8-f028b1cf5a91,Ryan Callus,2023-03-07T10:53:26.352Z,d9cf5183-cb1f-4e52-9121-d424da375c04,PN,Malta,mt,366906900097269,Ryan Callus,Facebook
+e68b4b60-b679-49f3-aa8c-303fc39118ac,James Grech,2023-03-08T14:43:04.254Z,0deb7c26-6eab-4cd3-a6d2-93b16b6ae8a2,PL,Malta,mt,1050376408471129,James Grech,Facebook
 e932a6d1-23ed-4bb3-8571-a55c6dd32fa3,ADPD,2023-06-01T06:53:30.050Z,dbd7b148-e32c-407e-b302-5f4eb021aace,AD+PD,Malta,mt,309359272432391,ADPD,Facebook
 fbf56d66-4641-4e36-968f-846afcc4ccc5,Mark Grech - Żabbar2024,2023-06-29T05:42:40.495Z,4c7db3ac-3fac-48d0-8564-7d7eaf53c178,PL,Malta,mt,314364765425043,Mark Grech - Żabbar2024,Facebook
-738afcdf-901a-4b33-97cc-baa67e2481df,Dario Vella,2023-03-08T14:43:04.244Z,f71e0679-d70e-48c5-8f89-dae5a321b47c,PL,Malta,mt,418820864845546,Dario Vella,Facebook
 58a1d43e-7d91-4e84-ac51-06cd3b58eb16,Keith Azzopardi Tanti,2023-06-16T09:33:19.496Z,41e2088f-7c9b-4315-95da-9b8a6f2f17ec,PL,Malta,mt,118206712183521,Keith Azzopardi Tanti,Facebook
-e7a71a37-02c6-4bfb-a85e-a578fe454507,Rebekah Borg,2023-03-08T14:43:04.254Z,c4f940a1-6fdf-48c9-b55e-72766ed36332,PN,Malta,mt,2160573460895828,Rebekah Borg,Facebook
-6b6bf0ff-9b9c-411a-b91e-9805c0f2230c,Daniel Attard,2023-04-05T10:53:15.131Z,32e51233-dca1-4ae8-9c3d-e2282e10c761,PL,Malta,mt,201139016692218,Daniel Attard,Facebook
-2913ce86-d50f-4b16-a593-a902c8dde199,Francine Farrugia,2023-03-05T10:53:38.721Z,da4bf21b-6616-4154-bacb-df11b585bcf0,PN,Malta,mt,249229579276947,Francine Farrugia,Facebook
-edf5188c-d347-4e03-91be-89500f1b4e59,Jonathan Attard,2023-03-08T14:43:04.254Z,95accfd4-b9ce-4238-85b4-6ee99c5088f9,PL,Malta,mt,102417405218853,Jonathan Attard,Facebook
-e68b4b60-b679-49f3-aa8c-303fc39118ac,James Grech,2023-03-08T14:43:04.254Z,0deb7c26-6eab-4cd3-a6d2-93b16b6ae8a2,PL,Malta,mt,1050376408471129,James Grech,Facebook
-1c11d949-833a-4828-9106-57f10126d659,Albert Buttigieg,2023-03-08T16:53:26.852Z,0f11b11c-7750-4a4c-bd11-df0a0a395067,PN,Malta,mt,553957061374411,Albert Buttigieg,Facebook
 37e7b1c2-9a54-427d-9fba-4baa71dce42b,Clint Camilleri,2023-03-08T15:02:56.861Z,e49a1a24-9ac6-4682-87e0-c7f28cdad12f,PL,Malta,mt,1417638468449319,Clint Camilleri,Facebook
+6b6bf0ff-9b9c-411a-b91e-9805c0f2230c,Daniel Attard,2023-04-05T10:53:15.131Z,32e51233-dca1-4ae8-9c3d-e2282e10c761,PL,Malta,mt,201139016692218,Daniel Attard,Facebook
 e5a53a56-13d8-427f-9bf9-0980d65101ff,Robert Cutajar,2023-04-19T06:53:13.486Z,6a1dc30b-115a-410e-9537-91077c5e7074,PN,Malta,mt,330036270351805,Robert Cutajar,Facebook
-ff498cdd-e8fd-4fe6-bfea-7d3907caaf9e,Owen Bonnici,2023-03-09T10:53:33.169Z,19dd1e21-7c69-47f6-88a6-3069d5fbdb31,PL,Malta,mt,105547692810949,Owen Bonnici,Facebook
-90a9d891-ee9d-4b13-a3c7-2a3b47ad41d4,Bernard Grech,2023-03-18T10:53:17.952Z,37fcf855-db42-4077-998e-5d7065df9d90,PN,Malta,mt,208847592959887,Bernard Grech,Facebook
 9d860fe6-d003-46c8-ae15-72e21fb3a8d2,Arnold Cassola,2023-05-23T06:53:20.681Z,7fdd04c8-7de5-499a-ad1e-43121bccd0bf,Oth,Malta,mt,453819464672968,Arnold Cassola,Facebook
+1c11d949-833a-4828-9106-57f10126d659,Albert Buttigieg,2023-03-08T16:53:26.852Z,0f11b11c-7750-4a4c-bd11-df0a0a395067,PN,Malta,mt,553957061374411,Albert Buttigieg,Facebook
+ff498cdd-e8fd-4fe6-bfea-7d3907caaf9e,Owen Bonnici,2023-03-09T10:53:33.169Z,19dd1e21-7c69-47f6-88a6-3069d5fbdb31,PL,Malta,mt,105547692810949,Owen Bonnici,Facebook
 6a2274a2-bd2d-40e2-81f0-59b74170a281,Bartolo J Ivan,2023-02-28T10:53:38.465Z,db35ef37-d0ec-4dc4-9da6-827a3207ed8d,PN,Malta,mt,110298813928985,Bartolo J Ivan,Facebook
-3222e230-34f7-49f2-8fdd-57d6452a552a,Darren Carabott,2023-03-22T10:53:06.886Z,6c3a58c6-a4a7-4d1a-80b6-24c8c8be2e0d,PN,Malta,mt,569537523066702,Darren Carabott,Facebook
 67cd8ce9-1e0b-4803-a6fc-dcd79684a912,Eve Borg Bonello,2023-02-20T10:53:30.564Z,33914e5d-5221-4770-ab57-5617882ee4b1,PN,Malta,mt,105590417540880,Eve Borg Bonello,Facebook
-53e7e929-6a94-4451-aaa7-0282f2e5c735,Ian Vassallo Hagi,2023-02-20T10:53:30.562Z,b3164614-7572-4af1-a29c-139fa789c04c,PN,Malta,mt,326758617372550,Ian Vassallo Hagi,Facebook
+90a9d891-ee9d-4b13-a3c7-2a3b47ad41d4,Bernard Grech,2023-03-18T10:53:17.952Z,37fcf855-db42-4077-998e-5d7065df9d90,PN,Malta,mt,208847592959887,Bernard Grech,Facebook
 d41aa06c-a199-405c-b194-b2c0f50652a6,Partit Popolari,2023-09-15T05:06:45.720Z,2189d707-9c48-4ab6-87e5-806beec98235,Oth,Malta,mt,101476914844690,Partit Popolari,Facebook
-cd213389-1c50-41a9-a7ff-ec36da2e888c,Stefano Sicari,2023-03-08T20:04:59.231Z,8881e837-6b84-4646-a634-d724e357fc96,PL,Malta,mt,107054307565189,Stefano Sicari,Facebook
+3222e230-34f7-49f2-8fdd-57d6452a552a,Darren Carabott,2023-03-22T10:53:06.886Z,6c3a58c6-a4a7-4d1a-80b6-24c8c8be2e0d,PN,Malta,mt,569537523066702,Darren Carabott,Facebook
 d29bd653-24a1-4b3e-af72-e20bdad4917f,Mark Anthony Sammut,2023-07-03T06:15:59.060Z,e05ac356-97f3-42a7-a772-66e281a38017,PN,Malta,mt,231187780287250,Mark Anthony Sammut,Facebook
-f219875c-830a-4b43-a204-eb6c28201157,Jo Etienne Abela,2023-11-04T05:06:54.946Z,f5480f2d-ec37-480b-a7a6-beae870940ab,PL,Malta,mt,103560018317221,Jo Etienne Abela,Facebook
 05470805-4f4a-45db-b0f4-284d187ea3ad,Graham Bencini,2023-03-08T14:43:04.277Z,43bed903-d65e-4fa4-b8b0-caa66eb4ad46,PN,Malta,mt,618663318144317,Graham Bencini,Facebook
+53e7e929-6a94-4451-aaa7-0282f2e5c735,Ian Vassallo Hagi,2023-02-20T10:53:30.562Z,b3164614-7572-4af1-a29c-139fa789c04c,PN,Malta,mt,326758617372550,Ian Vassallo Hagi,Facebook
 f874de30-7b67-4d66-b256-a3a3a7a407bf,Clifton Grima,2023-10-08T05:07:19.461Z,8211c3ed-122b-4fb4-9431-ed4b83608090,PL,Malta,mt,958347047640309,Clifton Grima,Facebook
+cd213389-1c50-41a9-a7ff-ec36da2e888c,Stefano Sicari,2023-03-08T20:04:59.231Z,8881e837-6b84-4646-a634-d724e357fc96,PL,Malta,mt,107054307565189,Stefano Sicari,Facebook
 247b3943-039c-4067-afd3-744b1b4b9def,Marija Sara Vella Gafà - Sindku tal-Gudja,2023-05-11T06:53:38.064Z,17380ba5-9087-4b4c-852a-d610177f2b84,PL,Malta,mt,206345169905276,Marija Sara Vella Gafà - Sindku tal-Gudja,Facebook
-bec7eb0e-6b5d-4882-b316-a64c26025ff9,Omar Farrugia,2023-10-08T05:07:19.459Z,2d2cb74b-e86b-4c1c-9621-e704ba1c4eb2,PL,Malta,mt,1735193520033873,Omar Farrugia,Facebook
+f219875c-830a-4b43-a204-eb6c28201157,Jo Etienne Abela,2023-11-04T05:06:54.946Z,f5480f2d-ec37-480b-a7a6-beae870940ab,PL,Malta,mt,103560018317221,Jo Etienne Abela,Facebook
 2b7a0c0d-1a7f-413f-80bc-3a54f335847e,Davina Sammut Hili,2023-10-23T05:06:43.606Z,ce0e37cb-aa70-4f6f-a219-9b15b044e0b9,PL,Malta,mt,1031828193500921,Davina Sammut Hili,Facebook
-e159824a-b771-488f-926a-af4b0b3bca89,Women's Rights Foundation,2023-03-07T10:53:26.329Z,8fdbd10d-c9a9-4e69-839d-8fa1e7ec50b8,ZZZ,Malta,mt,352671194861746,Women's Rights Foundation,Facebook
 b7cd7d72-1511-4390-8a1d-225c85c81c79,Frederick Aquilina,2023-09-22T04:07:23.218Z,6e37158b-6ce5-4080-93a0-5e081d5bca60,PN,Malta,mt,236517837179567,Frederick Aquilina,Facebook
+bec7eb0e-6b5d-4882-b316-a64c26025ff9,Omar Farrugia,2023-10-08T05:07:19.459Z,2d2cb74b-e86b-4c1c-9621-e704ba1c4eb2,PL,Malta,mt,1735193520033873,Omar Farrugia,Facebook
 f345383a-110e-4995-b9d4-0c26d38cb6a1,jefmalta,2023-08-30T05:06:57.339Z,e6f4f8ec-a9a9-4550-b3a1-05f4a0e0863a,ZZZ,Malta,mt,109552211829355,jefmalta,Facebook
-66c4f571-b2cd-436d-b566-0f3b10200553,Free Bubbles Refill Station,2023-07-17T10:10:39.877Z,25a568d5-7e53-4fb9-a039-86926141c0ad,ZZZ,Malta,mt,114912028173936,Free Bubbles Refill Station,Facebook
 d57a7cd8-30ae-49d8-88fc-11cf4fc5fe8c,Skills Malta,2023-08-31T06:14:04.914Z,afb50520-67ca-4854-8c81-0f4ac991dcde,ZZZ,Malta,mt,102016540474726,Skills Malta,Facebook
-d7b04cb9-2406-4431-aa79-e4eb3e1d2007,Energy & Water Agency,2023-08-13T05:07:57.510Z,e62dbe74-5c75-47cb-9b21-4b43c418fed0,ZZZ,Malta,mt,2025563217727669,Energy & Water Agency,Facebook
+e159824a-b771-488f-926a-af4b0b3bca89,Women's Rights Foundation,2023-03-07T10:53:26.329Z,8fdbd10d-c9a9-4e69-839d-8fa1e7ec50b8,ZZZ,Malta,mt,352671194861746,Women's Rights Foundation,Facebook
+66c4f571-b2cd-436d-b566-0f3b10200553,Free Bubbles Refill Station,2023-07-17T10:10:39.877Z,25a568d5-7e53-4fb9-a039-86926141c0ad,ZZZ,Malta,mt,114912028173936,Free Bubbles Refill Station,Facebook
 e700eb89-4e6b-4bc4-8cfe-cd7a8edaabca,End-Racism-MT,2023-07-07T13:16:26.565Z,febe59a9-a968-44cc-bd5a-28bbd10942b4,ZZZ,Malta,mt,101771869551296,End-Racism-MT,Facebook
-260ef171-cd5c-44a0-8d84-1fad81e2e85c,National Cybersecurity Coordination Centre MT,2023-07-09T06:08:26.191Z,b88ea2ad-ef4c-4c50-859d-e753168acc68,ZZZ,Malta,mt,194781217654528,National Cybersecurity Coordination Centre MT,Facebook
+d7b04cb9-2406-4431-aa79-e4eb3e1d2007,Energy & Water Agency,2023-08-13T05:07:57.510Z,e62dbe74-5c75-47cb-9b21-4b43c418fed0,ZZZ,Malta,mt,2025563217727669,Energy & Water Agency,Facebook
 7b657df1-156b-4bbd-82fc-ba201aca82cc,JEF Malta,2023-09-01T05:06:53.862Z,7471d455-41ff-40f1-a1d3-58603a140b98,ZZZ,Malta,mt,206715282682956,JEF Malta,Facebook
-3d775aef-f920-4665-bc0a-935c590ce914,Naughty Malta,2023-08-14T05:07:10.600Z,e9b44222-2d22-4f1b-b23a-ef8ae4f3f1a0,ZZZ,Malta,mt,103321232860635,Naughty Malta,Facebook
+260ef171-cd5c-44a0-8d84-1fad81e2e85c,National Cybersecurity Coordination Centre MT,2023-07-09T06:08:26.191Z,b88ea2ad-ef4c-4c50-859d-e753168acc68,ZZZ,Malta,mt,194781217654528,National Cybersecurity Coordination Centre MT,Facebook
 e150c1ba-e774-4148-aee1-449f4c0dc3c8,Sabina Mowler,2023-09-02T05:06:55.517Z,6a1e61e7-28e0-4fe5-86e3-b2b3e6c3714a,ZZZ,Malta,mt,118280234698546,Sabina Mowler,Facebook
+3d775aef-f920-4665-bc0a-935c590ce914,Naughty Malta,2023-08-14T05:07:10.600Z,e9b44222-2d22-4f1b-b23a-ef8ae4f3f1a0,ZZZ,Malta,mt,103321232860635,Naughty Malta,Facebook
 e67cd924-edee-4a01-b058-0938c5c78487,European Region of Sports 2023,2023-09-03T05:06:51.668Z,05b78765-31c5-4266-a490-7aeee5747e41,ZZZ,Malta,mt,101387259519619,European Region of Sports 2023,Facebook
-6c5d0c35-e654-4344-9af7-99352ec691a9,geovanacartaxo,2023-08-30T05:06:57.327Z,6677648f-5fd5-431d-b67e-5f9818939246,ZZZ,Malta,mt,112618021935825,geovanacartaxo,Facebook
 403c2eb6-7d11-43b1-b914-5072a872274c,SEM - Servizzi Ewropej f'Malta,2023-02-07T15:04:58.782Z,750f646a-961f-449d-911b-7221effa4f59,ZZZ,Malta,mt,180083672068356,SEM - Servizzi Ewropej f'Malta,Facebook
-985f335c-fe43-4b51-b0be-f002c3c151a3,Occupy Justice Malta,2023-02-17T10:53:18.442Z,e9941706-8ee3-494d-b3f6-94df278a6735,ZZZ,Malta,mt,373727439735340,Occupy Justice Malta,Facebook
+6c5d0c35-e654-4344-9af7-99352ec691a9,geovanacartaxo,2023-08-30T05:06:57.327Z,6677648f-5fd5-431d-b67e-5f9818939246,ZZZ,Malta,mt,112618021935825,geovanacartaxo,Facebook
 a7b6e4f5-b108-4a92-939a-2df4ef598545,WEEE Malta,2023-11-24T05:07:42.362Z,466bfbe3-9489-4efd-89b0-59fe321f02db,ZZZ,Malta,mt,780973012026199,WEEE Malta,Facebook
+985f335c-fe43-4b51-b0be-f002c3c151a3,Occupy Justice Malta,2023-02-17T10:53:18.442Z,e9941706-8ee3-494d-b3f6-94df278a6735,ZZZ,Malta,mt,373727439735340,Occupy Justice Malta,Facebook
+f5bf0357-35ad-487e-aadf-9f0b21b76490,Dar Hosea,2023-02-25T10:53:35.745Z,9772a548-96b2-4da4-a10f-c710e5fe7174,ZZZ,Malta,mt,373041000185595,Dar Hosea,Facebook
+a8ce43ea-14ec-4e83-9118-c2a6deb10ffb,Spazju Kreattiv,2023-03-06T10:53:31.195Z,a2da97d5-0622-42a7-be58-ebbc4bde307f,ZZZ,Malta,mt,469379226562344,Spazju Kreattiv,Facebook
 0761a5be-a48d-4c80-b8d7-fa2e08f87e57,Steve Ellul,2023-02-07T15:04:58.800Z,d4d02c7d-2a89-4f5c-b7a2-90a63f3e0e65,ZZZ,Malta,mt,112729707303401,Steve Ellul,Facebook
 73dabc71-9246-409a-9aea-26295571357d,Medik Store Malta,2023-02-07T15:04:58.738Z,73346d1d-bfa7-4ba9-a3b7-c3f6a0e7dc0e,ZZZ,Malta,mt,113095853899600,Medik Store Malta,Facebook
-f5bf0357-35ad-487e-aadf-9f0b21b76490,Dar Hosea,2023-02-25T10:53:35.745Z,9772a548-96b2-4da4-a10f-c710e5fe7174,ZZZ,Malta,mt,373041000185595,Dar Hosea,Facebook
 36eccaf1-55a2-474f-9f8e-ebc88771935c,Friends of the Earth Malta,2023-02-07T15:04:58.795Z,6bdd9d00-b19e-4aca-bebb-686f1cd4e8f6,ZZZ,Malta,mt,137236009675929,Friends of the Earth Malta,Facebook
+ed191647-8841-4f6d-9820-582cdc10a157,Bio Aqua Garden - Malta Aquaponics System,2023-11-30T05:07:30.097Z,f5b9b370-e70f-4f40-aff2-baaf2bcdf598,ZZZ,Malta,mt,304513863044613,Bio Aqua Garden - Malta Aquaponics System,Facebook
 477a4eef-6be7-496b-a94b-0e71644e0351,SOS Malta,2023-02-07T15:04:58.757Z,caa775f2-952e-4391-b9c0-00f51bcf7709,ZZZ,Malta,mt,206414479408668,SOS Malta,Facebook
 f69946b4-5fcc-4932-8499-78c33ca77690,Institute for Education,2023-02-07T15:04:58.751Z,65d734a5-cea2-438f-bd10-96b2d093c3d6,ZZZ,Malta,mt,494031390801781,Institute for Education,Facebook
-a8ce43ea-14ec-4e83-9118-c2a6deb10ffb,Spazju Kreattiv,2023-03-06T10:53:31.195Z,a2da97d5-0622-42a7-be58-ebbc4bde307f,ZZZ,Malta,mt,469379226562344,Spazju Kreattiv,Facebook
-a15cdf70-0d97-4ef0-b80a-bdfb3aacee8e,Moviment Graffitti,2023-02-07T15:04:58.774Z,5338cdb5-b4fc-4bb1-b5e3-670e9fafea22,ZZZ,Malta,mt,867277666662087,Moviment Graffitti,Facebook
-bd27fe79-1406-4d2e-b217-5bb271da9a7b,Claire Tonna -  Singer/Songwriter,2023-02-09T06:27:57.619Z,3701bb1c-0325-4910-8b41-3b310daacf01,ZZZ,Malta,mt,237237999738989,Claire Tonna -  Singer/Songwriter,Facebook
-ed191647-8841-4f6d-9820-582cdc10a157,Bio Aqua Garden - Malta Aquaponics System,2023-11-30T05:07:30.097Z,f5b9b370-e70f-4f40-aff2-baaf2bcdf598,ZZZ,Malta,mt,304513863044613,Bio Aqua Garden - Malta Aquaponics System,Facebook
-af5081aa-1cf8-4b12-a0bd-b437a9a2f8ed,Argus Malta,2023-02-09T06:27:57.609Z,af549a32-c0fb-464f-8748-46fd5915bb9f,ZZZ,Malta,mt,107822661780722,Argus Malta,Facebook
 6691b5f7-8315-40b2-9490-3366f496c6c4,Dream house,2023-11-30T05:07:30.114Z,2f9486ac-7829-41ff-b552-ac8a08b582d0,ZZZ,Malta,mt,100252071531584,Dream house,Facebook
-0a490d35-95bc-4b4a-81d7-1b6e61eec04b,Harm Reduction Malta,2023-02-08T05:54:33.646Z,000b4c75-a686-460c-8382-53dc5362da6b,ZZZ,Malta,mt,108069380741688,Harm Reduction Malta,Facebook
-08559419-e5b8-46a3-963a-9fd0c2d5a443,Uwejja,2023-08-12T05:07:47.020Z,018f0659-5055-4027-ab65-8e1debccc1ce,ZZZ,Malta,mt,2296591623757677,Uwejja,Facebook
+a15cdf70-0d97-4ef0-b80a-bdfb3aacee8e,Moviment Graffitti,2023-02-07T15:04:58.774Z,5338cdb5-b4fc-4bb1-b5e3-670e9fafea22,ZZZ,Malta,mt,867277666662087,Moviment Graffitti,Facebook
 3d76eadb-07f2-47e3-acd8-b3bfb46d165a,ouroemoeda_bc,2023-07-22T05:07:50.670Z,882924e8-64c5-43fe-9b48-4774db842b2a,ZZZ,Malta,mt,109904091235999,ouroemoeda_bc,Facebook
+bd27fe79-1406-4d2e-b217-5bb271da9a7b,Claire Tonna -  Singer/Songwriter,2023-02-09T06:27:57.619Z,3701bb1c-0325-4910-8b41-3b310daacf01,ZZZ,Malta,mt,237237999738989,Claire Tonna -  Singer/Songwriter,Facebook
 5da79c1b-d3ac-4e3d-9669-aa4cc6b35073,Paleosim - a Climate Impacts research project,2023-08-21T05:07:46.381Z,454cc6dd-38de-4019-9426-9eb7e5034a41,ZZZ,Malta,mt,119133571170332,Paleosim - a Climate Impacts research project,Facebook
-c978df64-b9f5-4dd7-80ed-a0e5637de4b5,Raisa / Liquorish 2023,2023-07-13T12:35:42.575Z,efb87216-8e4a-4ce6-8585-813d2bf1da19,ZZZ,Malta,mt,103108159416195,Raisa / Liquorish 2023,Facebook
+af5081aa-1cf8-4b12-a0bd-b437a9a2f8ed,Argus Malta,2023-02-09T06:27:57.609Z,af549a32-c0fb-464f-8748-46fd5915bb9f,ZZZ,Malta,mt,107822661780722,Argus Malta,Facebook
 cc59a4d5-466a-4164-a52e-bf1bd7cd380a,Malta Business Awards,2023-07-26T05:08:54.238Z,4b28caf8-9ea6-459c-b6b4-87f9e5797ef9,ZZZ,Malta,mt,105093795607033,Malta Business Awards,Facebook
-0e606e97-81b5-46e5-a404-9c97a1d3dbab,Chloe’s Closet & Friends,2023-07-13T12:35:51.397Z,ae3c4da1-681f-4645-80b3-ad946cd2ec28,ZZZ,Malta,mt,104504027584365,Chloe’s Closet & Friends,Facebook
+0a490d35-95bc-4b4a-81d7-1b6e61eec04b,Harm Reduction Malta,2023-02-08T05:54:33.646Z,000b4c75-a686-460c-8382-53dc5362da6b,ZZZ,Malta,mt,108069380741688,Harm Reduction Malta,Facebook
 133af27d-a031-4fed-b920-54a007c65d62,The Dance Workshop,2023-11-29T05:07:38.053Z,7054177f-ca0c-4b55-9c73-811b50f66969,ZZZ,Malta,mt,272922641363,The Dance Workshop,Facebook
-c717dd5c-2177-4756-8dce-e46ea923af19,Gadgets,2023-02-12T10:53:20.392Z,dbf85661-fc03-43b4-87b1-a70bb5e48ba5,ZZZ,Malta,mt,39024630029,Gadgets,Facebook
+08559419-e5b8-46a3-963a-9fd0c2d5a443,Uwejja,2023-08-12T05:07:47.020Z,018f0659-5055-4027-ab65-8e1debccc1ce,ZZZ,Malta,mt,2296591623757677,Uwejja,Facebook
 8cb6b071-3334-47c5-b55b-d84cbf4bd971,Charles & Ron,2023-09-10T05:06:54.780Z,10ef785b-3c28-4870-b7fc-4d7cc0d4b9c7,ZZZ,Malta,mt,187958351223328,Charles & Ron,Facebook
-84755a21-e65d-4ff6-bc2b-e0b775922c74,Gozo Regional Development Authority,2023-02-14T10:53:31.065Z,b14f4d1f-1e9e-426c-b7b7-dd07330efae2,ZZZ,Malta,mt,100962825171172,Gozo Regional Development Authority,Facebook
+c978df64-b9f5-4dd7-80ed-a0e5637de4b5,Raisa / Liquorish 2023,2023-07-13T12:35:42.575Z,efb87216-8e4a-4ce6-8585-813d2bf1da19,ZZZ,Malta,mt,103108159416195,Raisa / Liquorish 2023,Facebook
 263ec8be-faf8-4763-8965-9d20c1f79d96,Gin Soltes,2023-08-26T05:06:54.031Z,03061c81-edde-42d0-91fc-31d30c1893df,ZZZ,Malta,mt,122095898870009493,Gin Soltes,Facebook
-5dcb18b2-2ba0-4c5c-ae35-7d06ce4410a7,MaltaEnergy,2023-02-14T10:53:31.044Z,db4bf795-2c10-41b5-bec0-b1289b5ad887,ZZZ,Malta,mt,104315952462526,MaltaEnergy,Facebook
-1b13514b-5318-4b2f-b59e-32f0eb9713a0,Farsons Group,2023-07-17T06:32:11.982Z,d7d5c283-9ddd-4805-a44b-42e5fcdb06a6,ZZZ,Malta,mt,623347394836561,Farsons Group,Facebook
+0e606e97-81b5-46e5-a404-9c97a1d3dbab,Chloe’s Closet & Friends,2023-07-13T12:35:51.397Z,ae3c4da1-681f-4645-80b3-ad946cd2ec28,ZZZ,Malta,mt,104504027584365,Chloe’s Closet & Friends,Facebook
 1ebce27b-54f8-4c77-8a0e-deab62f83f53,HSBC,2023-09-11T05:07:05.205Z,ec440a4e-6547-4858-8783-daa0a79d9c20,ZZZ,Malta,mt,158020367901841,HSBC,Facebook
-13f5d429-5c29-4587-a4de-41aa69bbccde,APS Bank,2023-02-17T10:53:18.432Z,2cf4f7ca-fc53-466a-8aa4-05830e78b1a7,ZZZ,Malta,mt,193048277409773,APS Bank,Facebook
+c717dd5c-2177-4756-8dce-e46ea923af19,Gadgets,2023-02-12T10:53:20.392Z,dbf85661-fc03-43b4-87b1-a70bb5e48ba5,ZZZ,Malta,mt,39024630029,Gadgets,Facebook
 cc04f660-7071-4bb7-a517-493fdcc7723f,Toyota Malta,2023-02-21T10:53:25.715Z,f88857ad-6d3c-4c9d-8784-5d845c67e675,ZZZ,Malta,mt,204506806280354,Toyota Malta,Facebook
-46a08e9f-674d-4d96-96d2-ce88e5914145,Malta Council for Science and Technology,2023-02-17T10:53:18.432Z,9e4bd113-78f8-424f-91ca-40b3772b8ec7,ZZZ,Malta,mt,193533820791777,Malta Council for Science and Technology,Facebook
+84755a21-e65d-4ff6-bc2b-e0b775922c74,Gozo Regional Development Authority,2023-02-14T10:53:31.065Z,b14f4d1f-1e9e-426c-b7b7-dd07330efae2,ZZZ,Malta,mt,100962825171172,Gozo Regional Development Authority,Facebook
 1b5e133e-d033-493e-92bb-7d3652b3f3f1,Akkomodazzjoni,2023-02-21T10:53:25.697Z,b51c3db2-39d6-4ed4-8201-3daa41b3749f,ZZZ,Malta,mt,105290491207206,Akkomodazzjoni,Facebook
-246b3912-db2f-435c-97e3-d092e1dc915c,Intersport Malta,2023-02-19T10:53:43.533Z,e5ebc4d7-702f-4acf-abe2-b2536a670289,ZZZ,Malta,mt,1659626037698228,Intersport Malta,Facebook
-4bcc622d-864a-4ff5-b5a2-3886a2bcb6e2,Keepmeposted - Find Jobs in Malta,2023-02-19T10:53:43.559Z,e0429cb0-339f-4110-b3d4-0939d473f279,ZZZ,Malta,mt,134343643322121,Keepmeposted - Find Jobs in Malta,Facebook
+5dcb18b2-2ba0-4c5c-ae35-7d06ce4410a7,MaltaEnergy,2023-02-14T10:53:31.044Z,db4bf795-2c10-41b5-bec0-b1289b5ad887,ZZZ,Malta,mt,104315952462526,MaltaEnergy,Facebook
 01f7c91d-90b0-4d27-bcfc-f1c159d978e5,Teva Malta,2023-02-26T10:53:37.081Z,1741b0c7-5b09-4cec-8bc7-91bb0ab34fb6,ZZZ,Malta,mt,260447757451080,Teva Malta,Facebook
-8e0d5b28-2c67-4531-b073-9ef831f7f4d7,ACN - Aid to the Church in Need,2023-02-19T10:53:43.522Z,978731fa-3eca-4895-869a-20458057d58b,ZZZ,Malta,mt,130784417092320,ACN - Aid to the Church in Need,Facebook
+1b13514b-5318-4b2f-b59e-32f0eb9713a0,Farsons Group,2023-07-17T06:32:11.982Z,d7d5c283-9ddd-4805-a44b-42e5fcdb06a6,ZZZ,Malta,mt,623347394836561,Farsons Group,Facebook
+13f5d429-5c29-4587-a4de-41aa69bbccde,APS Bank,2023-02-17T10:53:18.432Z,2cf4f7ca-fc53-466a-8aa4-05830e78b1a7,ZZZ,Malta,mt,193048277409773,APS Bank,Facebook
 f0db8075-8826-4315-ae4b-74424d1180f7,JournalismPlus - Victor Paul Borg,2023-02-26T10:53:37.064Z,c78ae8b6-3210-47dc-9f3f-204554aa3635,ZZZ,Malta,mt,101948514879068,JournalismPlus - Victor Paul Borg,Facebook
+46a08e9f-674d-4d96-96d2-ce88e5914145,Malta Council for Science and Technology,2023-02-17T10:53:18.432Z,9e4bd113-78f8-424f-91ca-40b3772b8ec7,ZZZ,Malta,mt,193533820791777,Malta Council for Science and Technology,Facebook
+ad1fc3fb-1236-4b8c-87a4-4c961337e148,Eli's Pretty Little Things,2023-03-01T10:53:26.161Z,d935badd-b1e3-4145-a76f-3c09dcb37146,ZZZ,Malta,mt,1893901904047088,Eli's Pretty Little Things,Facebook
+246b3912-db2f-435c-97e3-d092e1dc915c,Intersport Malta,2023-02-19T10:53:43.533Z,e5ebc4d7-702f-4acf-abe2-b2536a670289,ZZZ,Malta,mt,1659626037698228,Intersport Malta,Facebook
+406827b8-ad06-43f8-a24f-bc322418b2bb,AQS Energy,2023-03-03T10:53:28.620Z,c5d640f5-0803-4981-a795-761da574b8e9,ZZZ,Malta,mt,148608308545211,AQS Energy,Facebook
+4bcc622d-864a-4ff5-b5a2-3886a2bcb6e2,Keepmeposted - Find Jobs in Malta,2023-02-19T10:53:43.559Z,e0429cb0-339f-4110-b3d4-0939d473f279,ZZZ,Malta,mt,134343643322121,Keepmeposted - Find Jobs in Malta,Facebook
+8e0d5b28-2c67-4531-b073-9ef831f7f4d7,ACN - Aid to the Church in Need,2023-02-19T10:53:43.522Z,978731fa-3eca-4895-869a-20458057d58b,ZZZ,Malta,mt,130784417092320,ACN - Aid to the Church in Need,Facebook
+0487923a-c5c6-4e0a-ab9b-9ce61e5bb8e8,Q Travel Malta,2023-09-17T05:06:52.024Z,3b966a95-9c44-478d-828b-1c11a71bda95,ZZZ,Malta,mt,111676081714965,Q Travel Malta,Facebook
+a3f9dd55-dd1a-48b8-86a9-5f9300095a37,MaltaSurvey.com,2023-03-04T10:53:37.121Z,2593760d-7a30-407d-ac18-2b0922d3b84d,ZZZ,Malta,mt,109898141894570,MaltaSurvey.com,Facebook
 458ec595-b6f0-4a07-a613-f93ae8fb9025,Sustainable Development,2023-02-07T15:04:58.745Z,adac8693-883d-481a-a833-881d12143a9a,ZZZ,Malta,mt,245128907419558,Sustainable Development,Facebook
+17ff2560-299e-423c-b063-807cfc9b4a2d,Robert Aquilina,2023-09-13T05:06:45.479Z,06bd076a-16e7-4e71-9315-c01f47fbab74,ZZZ,Malta,mt,108572861756703,Robert Aquilina,Facebook
 1d95da63-5498-4b09-8586-df1b1e9c1ec5,Vassallo Group Malta,2023-02-19T10:53:43.537Z,f02a9dee-d2c1-409e-994d-3b32a533cf61,ZZZ,Malta,mt,388891077840656,Vassallo Group Malta,Facebook
 c1863da6-65bc-4e80-87eb-025bdf787781,Edukazzjoni,2023-02-26T10:53:37.063Z,94219810-22ea-41b3-bd9e-7d33ebc02b7f,ZZZ,Malta,mt,1475539739391691,Edukazzjoni,Facebook
+95a41aa9-48a7-41e1-905d-4d93cb301a6c,Raniero's Adventures - Live Life,2023-09-23T05:06:58.708Z,93c015d0-be6a-450f-8d56-343f89c91d03,ZZZ,Malta,mt,1733779480244156,Raniero's Adventures - Live Life,Facebook
 179872ca-930d-44e4-b74f-3216576d4562,Malta for Ukraine,2023-02-28T10:53:38.464Z,2a17e3f2-494f-45a8-b759-94a3f76cfe70,ZZZ,Malta,mt,105657882064981,Malta for Ukraine,Facebook
+c248523a-8215-4a62-a5b1-baa18a8d6b76,PostPro,2023-11-11T05:06:42.594Z,64d80b36-de04-4930-ae23-e614802830ff,ZZZ,Malta,mt,112715565199517,PostPro,Facebook
 94f6e59f-dacf-40fb-aa91-9fb20a725cd8,Eurosport Malta,2023-03-05T10:53:38.725Z,cd77504f-9fb0-4317-95e9-14a7ccca29f8,ZZZ,Malta,mt,129664277182026,Eurosport Malta,Facebook
-ad1fc3fb-1236-4b8c-87a4-4c961337e148,Eli's Pretty Little Things,2023-03-01T10:53:26.161Z,d935badd-b1e3-4145-a76f-3c09dcb37146,ZZZ,Malta,mt,1893901904047088,Eli's Pretty Little Things,Facebook
 7d76257d-43d0-4255-b1fc-ebc7218f56e9,The Malta Independent,2023-02-07T15:04:58.804Z,2a490670-2c2b-48d6-994e-c6a75abc9add,ZZZ,Malta,mt,480288348662981,The Malta Independent,Facebook
+78b799d3-bb3a-494f-91d9-b677b7612a02,Valletta Design Cluster,2023-03-08T10:53:26.851Z,c1ac67fe-e350-40aa-a0b4-ac2461d2532c,ZZZ,Malta,mt,1750655841693830,Valletta Design Cluster,Facebook
 c61131bf-7024-4f99-a9b9-b51e08530852,kellimni.com,2023-02-07T15:04:58.786Z,a84bdb1e-464c-4b09-9e2d-268d33a70cb5,ZZZ,Malta,mt,325981127456443,kellimni.com,Facebook
-406827b8-ad06-43f8-a24f-bc322418b2bb,AQS Energy,2023-03-03T10:53:28.620Z,c5d640f5-0803-4981-a795-761da574b8e9,ZZZ,Malta,mt,148608308545211,AQS Energy,Facebook
 83f872ca-c081-4129-a5d8-c3e155f6c070,Malta Daily,2023-02-07T15:04:58.730Z,0af5f6d5-2aa8-4ceb-9278-0fb360cdc1ad,ZZZ,Malta,mt,103987224566212,Malta Daily,Facebook
+09fcc4e6-f1e8-41d2-8da5-f10aab84652f,The Harbour Club,2023-03-08T14:43:04.263Z,1f22a7a4-541d-4288-981b-0ece072efd51,ZZZ,Malta,mt,573884756028732,The Harbour Club,Facebook
 a477243e-185e-4c13-acbc-9e2058d96e6b,The Malta Chamber,2023-02-07T15:04:58.788Z,f853b934-dc38-4976-9550-3be8a71983b0,ZZZ,Malta,mt,435404653282308,The Malta Chamber,Facebook
 b0163d38-febc-49c5-b3fd-16a20d57f962,EOHSJ Malta,2023-02-07T15:04:58.788Z,4905de20-2cd0-4378-846c-f250c01f3a2e,ZZZ,Malta,mt,424832597598732,EOHSJ Malta,Facebook
-0487923a-c5c6-4e0a-ab9b-9ce61e5bb8e8,Q Travel Malta,2023-09-17T05:06:52.024Z,3b966a95-9c44-478d-828b-1c11a71bda95,ZZZ,Malta,mt,111676081714965,Q Travel Malta,Facebook
-2a0a2c42-aab3-4bd0-974e-55ccc70183d6,Is-Servizz Pubbliku,2023-02-07T15:04:58.730Z,6aac743d-6d11-4c1d-a913-1ea3f37c4106,ZZZ,Malta,mt,1899278546967270,Is-Servizz Pubbliku,Facebook
-e7ca8a1d-7f60-4a00-ae4c-233d987a4c03,Allied Rainbow Communities - ARC,2023-02-07T15:04:58.795Z,b440fcf3-6db1-4d10-9e7d-e1a805693684,ZZZ,Malta,mt,813712275381189,Allied Rainbow Communities - ARC,Facebook
-a3f9dd55-dd1a-48b8-86a9-5f9300095a37,MaltaSurvey.com,2023-03-04T10:53:37.121Z,2593760d-7a30-407d-ac18-2b0922d3b84d,ZZZ,Malta,mt,109898141894570,MaltaSurvey.com,Facebook
-0a6108bc-ed22-439a-a4cc-f053df023566,MGRM,2023-02-11T10:53:14.825Z,f63aad8b-5259-4271-94d2-be2f5ef87998,ZZZ,Malta,mt,146425212985,MGRM,Facebook
-17ff2560-299e-423c-b063-807cfc9b4a2d,Robert Aquilina,2023-09-13T05:06:45.479Z,06bd076a-16e7-4e71-9315-c01f47fbab74,ZZZ,Malta,mt,108572861756703,Robert Aquilina,Facebook
-1f37f2ca-fcdb-431a-8023-f5f5d03f3d03,European Parliament in Malta / Il-Parlament Ewropew f'Malta,2023-02-11T10:53:14.826Z,23eaea30-d3fa-4bc4-b7ff-55740a23b4ea,ZZZ,Malta,mt,116353271736965,European Parliament in Malta / Il-Parlament Ewropew f'Malta,Facebook
-95a41aa9-48a7-41e1-905d-4d93cb301a6c,Raniero's Adventures - Live Life,2023-09-23T05:06:58.708Z,93c015d0-be6a-450f-8d56-343f89c91d03,ZZZ,Malta,mt,1733779480244156,Raniero's Adventures - Live Life,Facebook
-c669d10b-1028-4894-862b-25aed23f2139,Doctors for Choice Malta,2023-02-13T10:53:37.511Z,72d23ab1-f894-4cad-86c7-54cb9d0b648c,ZZZ,Malta,mt,506829903185337,Doctors for Choice Malta,Facebook
-c248523a-8215-4a62-a5b1-baa18a8d6b76,PostPro,2023-11-11T05:06:42.594Z,64d80b36-de04-4930-ae23-e614802830ff,ZZZ,Malta,mt,112715565199517,PostPro,Facebook
-9203d4ef-5d88-4b2e-9d4c-a36973fba71e,Office of the Commissioner for Animal Welfare,2023-02-14T10:53:31.050Z,ce43f241-e1bb-4a98-9e80-9c6045c1b6b0,ZZZ,Malta,mt,104118218339129,Office of the Commissioner for Animal Welfare,Facebook
-78b799d3-bb3a-494f-91d9-b677b7612a02,Valletta Design Cluster,2023-03-08T10:53:26.851Z,c1ac67fe-e350-40aa-a0b4-ac2461d2532c,ZZZ,Malta,mt,1750655841693830,Valletta Design Cluster,Facebook
-5f571610-9b8b-4fa1-bde0-e063e84215ca,Ofion,2023-03-12T10:53:25.840Z,4fb402a1-e93f-4d29-93d3-593e35011888,ZZZ,Malta,mt,569729099803203,Ofion,Facebook
-699cdfca-7e67-4b55-a5e6-bd76083895ba,Comune di Pozzallo,2023-09-10T05:06:54.809Z,6069bee7-b245-47e7-bbb1-8b5de87c35fa,ZZZ,Malta,mt,1418647861773571,Comune di Pozzallo,Facebook
-09fcc4e6-f1e8-41d2-8da5-f10aab84652f,The Harbour Club,2023-03-08T14:43:04.263Z,1f22a7a4-541d-4288-981b-0ece072efd51,ZZZ,Malta,mt,573884756028732,The Harbour Club,Facebook
-26dd94b1-b304-447c-bb27-27c541d18016,ITS Congresses,2023-03-05T10:53:38.750Z,5c3c5739-939d-4a86-a9f2-992d83edbf3c,ZZZ,Malta,mt,160198301243328,ITS Congresses,Facebook
 8bf6a9ba-d1a1-4dae-a6ac-c050047b100c,Żibel,2023-03-08T14:43:04.255Z,91cc8e8b-b492-45f1-ae7f-aab74117bb2e,ZZZ,Malta,mt,1648239328811772,Żibel,Facebook
-67a2cde4-d951-462c-bbbb-7e34bc2b472d,FIDEM Charity Foundation,2023-03-07T10:53:26.308Z,8231c245-b35f-4ce0-8df3-f104f280d42b,ZZZ,Malta,mt,628136714308190,FIDEM Charity Foundation,Facebook
+2a0a2c42-aab3-4bd0-974e-55ccc70183d6,Is-Servizz Pubbliku,2023-02-07T15:04:58.730Z,6aac743d-6d11-4c1d-a913-1ea3f37c4106,ZZZ,Malta,mt,1899278546967270,Is-Servizz Pubbliku,Facebook
 68750927-8fb6-479a-8d28-bf6aaea53272,Alex Mangion,2023-03-08T14:43:04.255Z,c168ed15-4214-4e27-b4ce-7f4eaf94c248,ZZZ,Malta,mt,1592315247711321,Alex Mangion,Facebook
-f50ed7e5-42a5-42f9-9249-a5d6b0e468c3,Sciberras Advocates,2023-05-08T06:53:03.710Z,d30a8251-0669-4a71-83b2-668d3ed2921c,ZZZ,Malta,mt,110537061179011,Sciberras Advocates,Facebook
+e7ca8a1d-7f60-4a00-ae4c-233d987a4c03,Allied Rainbow Communities - ARC,2023-02-07T15:04:58.795Z,b440fcf3-6db1-4d10-9e7d-e1a805693684,ZZZ,Malta,mt,813712275381189,Allied Rainbow Communities - ARC,Facebook
 c418d517-7cba-4e71-a550-1460c8a6ed81,BusinessNow.mt,2023-03-08T15:12:40.956Z,658b2591-2d4e-415b-af41-21db2cee8ffc,ZZZ,Malta,mt,102179261527450,BusinessNow.mt,Facebook
-fe5382cb-44c7-40d5-b45e-0bca6e1a8655,Clarence vlog,2023-12-02T17:14:04.265Z,5c23cb2a-4167-4ccb-bba0-513fb1ab1672,ZZZ,Malta,mt,100450962801901,Clarence vlog,Facebook
+0a6108bc-ed22-439a-a4cc-f053df023566,MGRM,2023-02-11T10:53:14.825Z,f63aad8b-5259-4271-94d2-be2f5ef87998,ZZZ,Malta,mt,146425212985,MGRM,Facebook
 6e7bcd6c-437a-4833-a0fa-e68e203845e5,Doctors for Life,2023-03-08T15:41:51.191Z,db8bd0c3-2244-489e-83bb-3dca562a5e47,ZZZ,Malta,mt,1923634087946802,Doctors for Life,Facebook
-6b0d1e0b-4991-4aca-9b1f-2925508aa839,ERA - Environment & Resources Authority,2023-10-20T05:06:59.935Z,6da7f852-4c90-48e3-8018-978fabef4f68,ZZZ,Malta,mt,104726574715748,ERA - Environment & Resources Authority,Facebook
-287bd107-8290-453c-89aa-bf186198d4e4,GO,2023-05-14T06:53:29.069Z,5a7685f9-8fe2-44cb-b278-37684e0ac34a,ZZZ,Malta,mt,163579466996511,GO,Facebook
+1f37f2ca-fcdb-431a-8023-f5f5d03f3d03,European Parliament in Malta / Il-Parlament Ewropew f'Malta,2023-02-11T10:53:14.826Z,23eaea30-d3fa-4bc4-b7ff-55740a23b4ea,ZZZ,Malta,mt,116353271736965,European Parliament in Malta / Il-Parlament Ewropew f'Malta,Facebook
 5ac9be37-5e94-4286-a1a0-5f4ab5f46467,WhosWho.mt,2023-03-08T16:12:02.182Z,ea841e24-aaf7-4bbc-9c7f-6c90527e857e,ZZZ,Malta,mt,101863038035106,WhosWho.mt,Facebook
-e505b6c0-43a1-4103-a7c1-239da250de5f,Science in the Citadel Gozo,2023-05-13T06:53:29.027Z,589d91ef-9388-4e46-8686-dffaef18acb4,ZZZ,Malta,mt,190088481478186,Science in the Citadel Gozo,Facebook
-3ef852e6-3dc4-4e22-b805-dddca603ce12,Malti Vitamin,2023-05-15T06:53:33.899Z,551b9a93-a34a-4e92-9d65-9f0bd9ed7cc0,ZZZ,Malta,mt,103116802720468,Malti Vitamin,Facebook
-132e786c-b296-4e84-b0c3-1aa4b52ee2d6,Sostenibilità,2023-05-16T06:53:21.940Z,0ba0b09f-1fe0-4a7c-95ea-c1de95d2ba16,ZZZ,Malta,mt,134062577230166,Sostenibilità,Facebook
+c669d10b-1028-4894-862b-25aed23f2139,Doctors for Choice Malta,2023-02-13T10:53:37.511Z,72d23ab1-f894-4cad-86c7-54cb9d0b648c,ZZZ,Malta,mt,506829903185337,Doctors for Choice Malta,Facebook
 1740c156-bb55-4e52-ad20-9f7f4de03ec8,finanzi,2023-03-08T16:32:38.154Z,9492307c-f116-4b47-844d-56839b40ca41,ZZZ,Malta,mt,100164765041410,finanzi,Facebook
-c5bc5e19-14d5-4162-9cb0-8cfc9cf84357,Good Earth Distributors Limited,2023-05-18T06:53:33.501Z,b7db1709-1c54-49b3-9ad0-5bece02be926,ZZZ,Malta,mt,185056129585,Good Earth Distributors Limited,Facebook
-e71ef6e4-0c92-4168-a8ce-f54a72218e02,Power Solutions,2023-05-21T06:53:16.316Z,255ef3ac-6fe0-41b8-a3b7-d670bfe4a415,ZZZ,Malta,mt,134279870085823,Power Solutions,Facebook
+9203d4ef-5d88-4b2e-9d4c-a36973fba71e,Office of the Commissioner for Animal Welfare,2023-02-14T10:53:31.050Z,ce43f241-e1bb-4a98-9e80-9c6045c1b6b0,ZZZ,Malta,mt,104118218339129,Office of the Commissioner for Animal Welfare,Facebook
 02d398c7-54af-4f1f-b586-0189b9023f1a,Lovin Malta,2023-03-08T16:53:26.850Z,4a0b1b59-6376-4e7a-8ba1-bae08aec4c1f,ZZZ,Malta,mt,1700937210129433,Lovin Malta,Facebook
-5ba96d32-88ec-4408-b7f9-9b3e8fa7654d,BNF Bank plc,2023-05-27T06:52:59.839Z,16cf53c5-83e2-4ca7-a5f6-5d30ac77c53b,ZZZ,Malta,mt,139451249399386,BNF Bank plc,Facebook
+5f571610-9b8b-4fa1-bde0-e063e84215ca,Ofion,2023-03-12T10:53:25.840Z,4fb402a1-e93f-4d29-93d3-593e35011888,ZZZ,Malta,mt,569729099803203,Ofion,Facebook
 9962491a-0851-4214-b3cb-260caef1edc7,"Commissioner for Children, Malta",2023-09-26T05:08:45.966Z,5776dbde-dc83-4b1d-994d-81ebae5d834a,ZZZ,Malta,mt,99261679454,"Commissioner for Children, Malta",Facebook
-323afd43-8cb5-41ea-9274-bf5b623ad2db,eCabs,2023-05-28T06:52:52.844Z,e761d8aa-51df-43e7-baf9-e5eeaf608d79,ZZZ,Malta,mt,339805103920,eCabs,Facebook
+699cdfca-7e67-4b55-a5e6-bd76083895ba,Comune di Pozzallo,2023-09-10T05:06:54.809Z,6069bee7-b245-47e7-bbb1-8b5de87c35fa,ZZZ,Malta,mt,1418647861773571,Comune di Pozzallo,Facebook
 9a4485dd-a1ff-4d5f-9012-8b0cfe01a553,Pro Life - We love life,2023-03-08T17:35:29.881Z,b5046c3a-8d8b-47bc-b894-8dff53d7d3dc,ZZZ,Malta,mt,1648830631846966,Pro Life - We love life,Facebook
-872f2811-60ca-4c83-9371-1d413ad89e39,BMIT Technologies,2023-05-29T06:53:00.320Z,bb0f1ad8-c2b0-40b0-b5bf-03613619fa48,ZZZ,Malta,mt,263280913713649,BMIT Technologies,Facebook
+26dd94b1-b304-447c-bb27-27c541d18016,ITS Congresses,2023-03-05T10:53:38.750Z,5c3c5739-939d-4a86-a9f2-992d83edbf3c,ZZZ,Malta,mt,160198301243328,ITS Congresses,Facebook
+67a2cde4-d951-462c-bbbb-7e34bc2b472d,FIDEM Charity Foundation,2023-03-07T10:53:26.308Z,8231c245-b35f-4ce0-8df3-f104f280d42b,ZZZ,Malta,mt,628136714308190,FIDEM Charity Foundation,Facebook
 5ace9f6b-b6ff-4ec8-93b7-9347971e41f2,Humanists Malta,2023-11-13T05:07:47.398Z,faf6c953-c5aa-45a3-bc9d-2dc05f4dc8f1,ZZZ,Malta,mt,667340359958367,Humanists Malta,Facebook
-a6cc8728-bb28-41f6-8050-559e05665814,Esplora Interactive Science Centre,2023-05-29T06:53:00.326Z,d5e945cb-b50a-4ae6-9018-bcf9c90f9d4e,ZZZ,Malta,mt,1510459595942717,Esplora Interactive Science Centre,Facebook
 bb47dd82-cb73-4f6e-983d-ea90b01691db,Maistic Malta,2023-03-08T18:07:37.220Z,6d285a5f-3ed3-48d9-b93e-01930718acf2,ZZZ,Malta,mt,104692595641587,Maistic Malta,Facebook
-5c40b18a-6375-4cde-a0f6-62cd9ebbd5db,Foundation for Medical Services,2023-05-30T06:53:30.371Z,3085fece-e6b8-48f4-9e55-80d143a266b2,ZZZ,Malta,mt,1705469163108647,Foundation for Medical Services,Facebook
+f50ed7e5-42a5-42f9-9249-a5d6b0e468c3,Sciberras Advocates,2023-05-08T06:53:03.710Z,d30a8251-0669-4a71-83b2-668d3ed2921c,ZZZ,Malta,mt,110537061179011,Sciberras Advocates,Facebook
 ba309ec4-6e7d-4dc6-a676-6fb457eed07a,Malta Football Players Association,2023-03-08T18:07:37.231Z,f7d92ad0-4fef-4694-8b03-512e4be66963,ZZZ,Malta,mt,132791520127077,Malta Football Players Association,Facebook
-9813052a-e4f6-4fcc-bba4-4326f9d631b7,Maltese Islands Weather,2023-05-30T06:53:30.360Z,4bca443e-d3b8-4ad9-95b6-16d5edf39489,ZZZ,Malta,mt,220277114762233,Maltese Islands Weather,Facebook
+fe5382cb-44c7-40d5-b45e-0bca6e1a8655,Clarence vlog,2023-12-02T17:14:04.265Z,5c23cb2a-4167-4ccb-bba0-513fb1ab1672,ZZZ,Malta,mt,100450962801901,Clarence vlog,Facebook
 37a0cb38-31e0-497e-bf85-3dbf607565c1,European Commission Representation in Malta,2023-03-08T18:18:03.123Z,85f25fa8-f71f-46ac-ba98-3fce5cf61cb0,ZZZ,Malta,mt,300669099950010,European Commission Representation in Malta,Facebook
+6b0d1e0b-4991-4aca-9b1f-2925508aa839,ERA - Environment & Resources Authority,2023-10-20T05:06:59.935Z,6da7f852-4c90-48e3-8018-978fabef4f68,ZZZ,Malta,mt,104726574715748,ERA - Environment & Resources Authority,Facebook
+3be95445-b82b-4495-8c42-e20c1caeb7e6,Ambjent Malta,2023-03-08T18:18:03.148Z,eece53bc-7528-4336-81cc-e7aaa26f1a4a,ZZZ,Malta,mt,101467719456750,Ambjent Malta,Facebook
+287bd107-8290-453c-89aa-bf186198d4e4,GO,2023-05-14T06:53:29.069Z,5a7685f9-8fe2-44cb-b278-37684e0ac34a,ZZZ,Malta,mt,163579466996511,GO,Facebook
+e505b6c0-43a1-4103-a7c1-239da250de5f,Science in the Citadel Gozo,2023-05-13T06:53:29.027Z,589d91ef-9388-4e46-8686-dffaef18acb4,ZZZ,Malta,mt,190088481478186,Science in the Citadel Gozo,Facebook
+c1f01fd4-71c7-4a44-8c8c-8e38a1ba668a,Atlas Insurance,2023-03-08T19:22:20.874Z,da2ed91c-55da-4f38-a6dc-a5efb86b3684,ZZZ,Malta,mt,199010170110277,Atlas Insurance,Facebook
+3ef852e6-3dc4-4e22-b805-dddca603ce12,Malti Vitamin,2023-05-15T06:53:33.899Z,551b9a93-a34a-4e92-9d65-9f0bd9ed7cc0,ZZZ,Malta,mt,103116802720468,Malti Vitamin,Facebook
+9f9e2d8f-2220-4473-b252-84587f316bf1,Kangen Water Distributor 2100063287,2023-11-14T12:26:20.355Z,e3d9c32a-eaee-4d4f-839e-4b4a8df2d7b8,ZZZ,Malta,mt,124620534065929,Kangen Water Distributor 2100063287,Facebook
+132e786c-b296-4e84-b0c3-1aa4b52ee2d6,Sostenibilità,2023-05-16T06:53:21.940Z,0ba0b09f-1fe0-4a7c-95ea-c1de95d2ba16,ZZZ,Malta,mt,134062577230166,Sostenibilità,Facebook
+c5bc5e19-14d5-4162-9cb0-8cfc9cf84357,Good Earth Distributors Limited,2023-05-18T06:53:33.501Z,b7db1709-1c54-49b3-9ad0-5bece02be926,ZZZ,Malta,mt,185056129585,Good Earth Distributors Limited,Facebook
+8902d736-932a-4635-a852-90b333dd47af,21 Malta,2023-03-09T10:53:33.147Z,a925abf6-09a4-415c-b70d-92ca9533b5ec,ZZZ,Malta,mt,671935236149959,21 Malta,Facebook
+53f1447a-9b00-487a-aaa5-ec8bd557cc42,Malta Sustainability Forum,2023-03-10T10:53:19.930Z,634cf4cf-8588-4e29-b10c-0f79969ce8fc,ZZZ,Malta,mt,103659487699382,Malta Sustainability Forum,Facebook
+e71ef6e4-0c92-4168-a8ce-f54a72218e02,Power Solutions,2023-05-21T06:53:16.316Z,255ef3ac-6fe0-41b8-a3b7-d670bfe4a415,ZZZ,Malta,mt,134279870085823,Power Solutions,Facebook
+70c51c91-baaa-4277-b0dc-6382de5d8964,NWAMI International Malta,2023-03-12T10:53:25.861Z,d0769bc9-97d2-46f0-922c-e0daf21420e0,ZZZ,Malta,mt,102288791898182,NWAMI International Malta,Facebook
+5ba96d32-88ec-4408-b7f9-9b3e8fa7654d,BNF Bank plc,2023-05-27T06:52:59.839Z,16cf53c5-83e2-4ca7-a5f6-5d30ac77c53b,ZZZ,Malta,mt,139451249399386,BNF Bank plc,Facebook
+cbc94170-91a0-4f6f-90f9-74acc638bca4,Hi-Care Services,2023-03-12T10:53:25.836Z,914101f7-ee8c-4ae4-b6ca-dacc6310919b,ZZZ,Malta,mt,118244859575243,Hi-Care Services,Facebook
+323afd43-8cb5-41ea-9274-bf5b623ad2db,eCabs,2023-05-28T06:52:52.844Z,e761d8aa-51df-43e7-baf9-e5eeaf608d79,ZZZ,Malta,mt,339805103920,eCabs,Facebook
+e2f0cde2-736d-4ddb-b74f-d1dd22aaafd2,ClimateOn Malta,2023-12-02T17:14:04.233Z,00f21dd8-3c71-42d6-b1f8-989f83cf710c,ZZZ,Malta,mt,106075554830170,ClimateOn Malta,Facebook
+872f2811-60ca-4c83-9371-1d413ad89e39,BMIT Technologies,2023-05-29T06:53:00.320Z,bb0f1ad8-c2b0-40b0-b5bf-03613619fa48,ZZZ,Malta,mt,263280913713649,BMIT Technologies,Facebook
+8182712a-ecf7-4a63-bfaa-5228ff0499be,Теsla Х,2023-12-02T17:14:04.291Z,80efc406-2753-467f-8c7a-573d09edb50b,ZZZ,Malta,mt,178672591994579,Теsla Х,Facebook
+a6cc8728-bb28-41f6-8050-559e05665814,Esplora Interactive Science Centre,2023-05-29T06:53:00.326Z,d5e945cb-b50a-4ae6-9018-bcf9c90f9d4e,ZZZ,Malta,mt,1510459595942717,Esplora Interactive Science Centre,Facebook
+ab1cc681-b918-4522-bd97-01b4c504bb35,GO TV Recommendations,2023-12-11T06:41:10.855Z,d8d9639d-9a0c-4011-9d90-f484eca76d46,ZZZ,Malta,mt,111809221344951,GO TV Recommendations,Facebook
+5c40b18a-6375-4cde-a0f6-62cd9ebbd5db,Foundation for Medical Services,2023-05-30T06:53:30.371Z,3085fece-e6b8-48f4-9e55-80d143a266b2,ZZZ,Malta,mt,1705469163108647,Foundation for Medical Services,Facebook
+dd965053-30f1-4eb5-a0d2-5267008b7ffb,Enya Magri,2023-03-13T10:53:14.667Z,e7b41045-4827-47b0-adb1-ec31f6792f78,ZZZ,Malta,mt,118026728241190,Enya Magri,Facebook
+9813052a-e4f6-4fcc-bba4-4326f9d631b7,Maltese Islands Weather,2023-05-30T06:53:30.360Z,4bca443e-d3b8-4ad9-95b6-16d5edf39489,ZZZ,Malta,mt,220277114762233,Maltese Islands Weather,Facebook
 7d2dec4c-e265-43e5-80ad-be738da93352,Maria Borg Vella,2023-05-31T06:53:22.259Z,d95d8ba8-5434-402c-a566-3a581f3a7931,ZZZ,Malta,mt,110062898699665,Maria Borg Vella,Facebook
 6a045cf7-5f32-4aa2-b3f5-02a2002375c1,Animal Liberation Malta,2023-06-03T06:53:11.579Z,fa4b7a88-683b-4548-820e-0821a5ec44cb,ZZZ,Malta,mt,588200624888112,Animal Liberation Malta,Facebook
-3be95445-b82b-4495-8c42-e20c1caeb7e6,Ambjent Malta,2023-03-08T18:18:03.148Z,eece53bc-7528-4336-81cc-e7aaa26f1a4a,ZZZ,Malta,mt,101467719456750,Ambjent Malta,Facebook
+22af1356-cfa6-43cc-80a7-ff548f539db0,QLZH Foundation,2023-03-13T10:53:14.618Z,f6b0a1c0-ea3d-4600-9219-a88941e87933,ZZZ,Malta,mt,476630169484888,QLZH Foundation,Facebook
 6145e909-2b79-4064-9a6f-62da68883824,Malta IT Law Association - MITLA,2023-06-04T06:52:57.088Z,96738060-7381-4789-a4cf-62a4cec96d48,ZZZ,Malta,mt,767384549996539,Malta IT Law Association - MITLA,Facebook
-c1f01fd4-71c7-4a44-8c8c-8e38a1ba668a,Atlas Insurance,2023-03-08T19:22:20.874Z,da2ed91c-55da-4f38-a6dc-a5efb86b3684,ZZZ,Malta,mt,199010170110277,Atlas Insurance,Facebook
+9bf22ea2-4bbf-4255-a064-1c700064b501,Ċmajra Art & Photography by Silvana,2023-11-22T05:07:32.914Z,9cc4e942-c4cd-4ede-9691-a0d0638461f2,ZZZ,Malta,mt,102826216189537,Ċmajra Art & Photography by Silvana,Facebook
 b8a1d387-4172-4964-be5d-ca1cc7b6a23e,SodaStream Syrups & More Malta,2023-06-06T06:53:01.465Z,69b7a98c-d0c7-4af5-b34d-fbe53e12fd8a,ZZZ,Malta,mt,109774068734944,SodaStream Syrups & More Malta,Facebook
-9f9e2d8f-2220-4473-b252-84587f316bf1,Kangen Water Distributor 2100063287,2023-11-14T12:26:20.355Z,e3d9c32a-eaee-4d4f-839e-4b4a8df2d7b8,ZZZ,Malta,mt,124620534065929,Kangen Water Distributor 2100063287,Facebook
+73e7a19e-d6dc-4cc8-89c9-50df4323ff5c,GCS Malta,2023-03-18T10:53:17.962Z,0cf97922-1852-4e0d-94e6-2448e06f37a4,ZZZ,Malta,mt,571684533027382,GCS Malta,Facebook
 d692e8a7-cf6f-4d1d-93e4-70791bc981b7,Bonġu,2023-06-07T06:52:54.763Z,7e84b132-7a4d-42b5-99a7-6995bc661674,ZZZ,Malta,mt,194067214711435,Bonġu,Facebook
+fb61d331-f52e-4056-b6ac-5de4689c8fcb,Nadia-Pace,2023-03-18T10:53:17.984Z,b5d95ad7-a1c8-42e9-805a-5b1cb6907d48,ZZZ,Malta,mt,1612031635582509,Nadia-Pace,Facebook
+da0d8688-560a-4db6-a4fc-5b09f3a1727e,malta_stands_with_israel,2023-10-21T05:07:34.830Z,71bb940b-1b43-4abd-aedb-07ec3163c410,ZZZ,Malta,mt,102679779605081,malta_stands_with_israel,Facebook
+52a078ba-069b-44fd-912d-d36c657b7a61,Circular Economy Malta,2023-09-26T05:08:45.955Z,8fbbbaf0-cfdc-43bc-a646-ade3a1848529,ZZZ,Malta,mt,100272254765278,Circular Economy Malta,Facebook
 c1c4048e-a2f0-4848-8e11-3b704f64a9e9,Eco Market Malta,2023-06-08T06:53:12.717Z,52dc9783-29dc-42b2-b5bb-a3101434f4aa,ZZZ,Malta,mt,1623348047809444,Eco Market Malta,Facebook
-8902d736-932a-4635-a852-90b333dd47af,21 Malta,2023-03-09T10:53:33.147Z,a925abf6-09a4-415c-b70d-92ca9533b5ec,ZZZ,Malta,mt,671935236149959,21 Malta,Facebook
 54a077ae-61aa-45b1-8564-00b121893f88,Rota.mt,2023-06-09T06:53:01.825Z,bf6c9c21-c24a-47a7-a6d6-f42d1b73f17b,ZZZ,Malta,mt,1837084209920772,Rota.mt,Facebook
-53f1447a-9b00-487a-aaa5-ec8bd557cc42,Malta Sustainability Forum,2023-03-10T10:53:19.930Z,634cf4cf-8588-4e29-b10c-0f79969ce8fc,ZZZ,Malta,mt,103659487699382,Malta Sustainability Forum,Facebook
+7c9b3705-8af3-4e43-af2a-5ec76429ad05,James Lawrence,2023-10-17T05:07:02.665Z,6c5da280-84ba-4814-84dd-6bec1a6118fe,ZZZ,Malta,mt,109173995615422,James Lawrence,Facebook
 18ae71f7-603e-4ced-83d4-9858d8263031,Fondazzjoni St Jeanne Antide,2023-06-10T06:52:57.612Z,89783e28-4992-4856-ab3a-3cc7ca23b212,ZZZ,Malta,mt,1383662198533529,Fondazzjoni St Jeanne Antide,Facebook
-70c51c91-baaa-4277-b0dc-6382de5d8964,NWAMI International Malta,2023-03-12T10:53:25.861Z,d0769bc9-97d2-46f0-922c-e0daf21420e0,ZZZ,Malta,mt,102288791898182,NWAMI International Malta,Facebook
+fbbf54bf-ba21-4a92-b25a-dd9ae030295d,Faith Alive Magazine,2023-03-20T10:53:14.795Z,2105a19e-c7df-4506-840c-656c02f42152,ZZZ,Malta,mt,102549451923042,Faith Alive Magazine,Facebook
 cc2dad6d-6a7b-4991-9c1d-41e1e6723076,Kunsill Reġjonali Lvant,2023-06-11T06:53:05.494Z,0f7cdbba-7ec9-4251-9fbe-7ade8d93b2fe,ZZZ,Malta,mt,1532283363466209,Kunsill Reġjonali Lvant,Facebook
-cbc94170-91a0-4f6f-90f9-74acc638bca4,Hi-Care Services,2023-03-12T10:53:25.836Z,914101f7-ee8c-4ae4-b6ca-dacc6310919b,ZZZ,Malta,mt,118244859575243,Hi-Care Services,Facebook
+5b9b9cf5-0d3d-4b6a-944b-cf62812bd44c,Island Bébé,2023-03-21T10:53:08.194Z,37215406-0a35-46e4-94fd-4cd145be583e,ZZZ,Malta,mt,105385948042520,Island Bébé,Facebook
 11c973da-4b9b-4fac-afb5-1b6b28648873,Dilmah Tea Malta,2023-06-12T06:52:59.916Z,ae13f5db-b5de-4a11-b855-6f3a21be5e4e,ZZZ,Malta,mt,109131205109838,Dilmah Tea Malta,Facebook
 dc3a6ec1-91b0-4f26-aeca-05a26614b5db,Jesmond Mizzi Financial Advisors,2023-06-15T06:53:11.433Z,0c931e5f-6562-4ec9-a35c-04f61d134f6a,ZZZ,Malta,mt,326186680852857,Jesmond Mizzi Financial Advisors,Facebook
-e2f0cde2-736d-4ddb-b74f-d1dd22aaafd2,ClimateOn Malta,2023-12-02T17:14:04.233Z,00f21dd8-3c71-42d6-b1f8-989f83cf710c,ZZZ,Malta,mt,106075554830170,ClimateOn Malta,Facebook
-09c4d4fe-3fa9-4089-9fc3-43786ceda6e0,Pandora Bargain Books,2023-06-19T18:25:04.261Z,3352da3a-28d1-40a6-9a1a-275b234a796b,ZZZ,Malta,mt,630396547099748,Pandora Bargain Books,Facebook
-467e165d-64d1-4a87-973e-71e1dee607bb,Malta Health Network (MHN),2023-06-19T18:25:04.312Z,0176bbb1-6399-4191-8be2-faa9588f443f,ZZZ,Malta,mt,204764482888622,Malta Health Network (MHN),Facebook
-8182712a-ecf7-4a63-bfaa-5228ff0499be,Теsla Х,2023-12-02T17:14:04.291Z,80efc406-2753-467f-8c7a-573d09edb50b,ZZZ,Malta,mt,178672591994579,Теsla Х,Facebook
-0c2a4e97-68f3-45d6-9f77-ac5897e43848,Grant Thornton Malta,2023-06-19T18:25:04.330Z,af84636f-a947-4abb-a9aa-1d383ffa58db,ZZZ,Malta,mt,912045562166686,Grant Thornton Malta,Facebook
-f0a04fa9-ef19-4b74-9d44-4173f7bf64ee,PwC Malta,2023-11-10T05:06:50.591Z,f8cc0214-5a18-4d51-940a-11fa261e5c50,ZZZ,Malta,mt,612635668810661,PwC Malta,Facebook
-ab1cc681-b918-4522-bd97-01b4c504bb35,GO TV Recommendations,2023-12-11T06:41:10.855Z,d8d9639d-9a0c-4011-9d90-f484eca76d46,ZZZ,Malta,mt,111809221344951,GO TV Recommendations,Facebook
-abbdbec8-2abc-4234-ad1f-6085515450a2,Commission for the Rights of Persons with Disability - CRPD,2023-06-23T05:16:49.675Z,7527132c-e94d-40fd-a914-858bd9491870,ZZZ,Malta,mt,466446316722543,Commission for the Rights of Persons with Disability - CRPD,Facebook
-dd965053-30f1-4eb5-a0d2-5267008b7ffb,Enya Magri,2023-03-13T10:53:14.667Z,e7b41045-4827-47b0-adb1-ec31f6792f78,ZZZ,Malta,mt,118026728241190,Enya Magri,Facebook
-dfc3cab5-0335-44d5-973e-9bfd85a2a298,Aġenzija Żgħażagħ,2023-06-23T06:17:00.312Z,8dbed220-a2e5-4526-8abe-207ab2df7c0b,ZZZ,Malta,mt,265799430111551,Aġenzija Żgħażagħ,Facebook
-22af1356-cfa6-43cc-80a7-ff548f539db0,QLZH Foundation,2023-03-13T10:53:14.618Z,f6b0a1c0-ea3d-4600-9219-a88941e87933,ZZZ,Malta,mt,476630169484888,QLZH Foundation,Facebook
-0f87587f-2925-42e3-a97c-b85dd5ff933e,San Blas Valley - Organic Produce,2023-12-14T05:06:55.437Z,23ed66f8-2bad-47cf-a398-61eabcdcca65,ZZZ,Malta,mt,102789487886618,San Blas Valley - Organic Produce,Facebook
-9bf22ea2-4bbf-4255-a064-1c700064b501,Ċmajra Art & Photography by Silvana,2023-11-22T05:07:32.914Z,9cc4e942-c4cd-4ede-9691-a0d0638461f2,ZZZ,Malta,mt,102826216189537,Ċmajra Art & Photography by Silvana,Facebook
-b30731ed-6388-483c-befd-6fbef0f96a93,djbick.com,2023-12-14T05:06:55.447Z,bda65a9e-2ed1-435f-9b4d-49bc9e9b899f,ZZZ,Malta,mt,165201756678005,djbick.com,Facebook
-73e7a19e-d6dc-4cc8-89c9-50df4323ff5c,GCS Malta,2023-03-18T10:53:17.962Z,0cf97922-1852-4e0d-94e6-2448e06f37a4,ZZZ,Malta,mt,571684533027382,GCS Malta,Facebook
-6405ad3b-334b-4a31-88ae-473e657271fd,RSM MT,2023-06-27T06:57:14.352Z,3e75d1e4-b4ad-4314-8a7f-8339672aa9aa,ZZZ,Malta,mt,195421983837062,RSM MT,Facebook
-fb61d331-f52e-4056-b6ac-5de4689c8fcb,Nadia-Pace,2023-03-18T10:53:17.984Z,b5d95ad7-a1c8-42e9-805a-5b1cb6907d48,ZZZ,Malta,mt,1612031635582509,Nadia-Pace,Facebook
-266d2ea2-239f-432e-96a8-bb3c714525d6,Amnesty International Africa,2023-07-01T05:08:05.318Z,3681a764-23e6-49f7-af4d-799beeaf7a19,ZZZ,Malta,mt,41515121987,Amnesty International Africa,Facebook
-da0d8688-560a-4db6-a4fc-5b09f3a1727e,malta_stands_with_israel,2023-10-21T05:07:34.830Z,71bb940b-1b43-4abd-aedb-07ec3163c410,ZZZ,Malta,mt,102679779605081,malta_stands_with_israel,Facebook
-d62005af-04e0-4e59-b6c2-766fc3b52d8e,ALDB & Associates,2023-07-01T05:08:05.310Z,ee318778-7653-4f9f-8aa7-6c1b070299bd,ZZZ,Malta,mt,114501608257310,ALDB & Associates,Facebook
-52a078ba-069b-44fd-912d-d36c657b7a61,Circular Economy Malta,2023-09-26T05:08:45.955Z,8fbbbaf0-cfdc-43bc-a646-ade3a1848529,ZZZ,Malta,mt,100272254765278,Circular Economy Malta,Facebook
-7c9b3705-8af3-4e43-af2a-5ec76429ad05,James Lawrence,2023-10-17T05:07:02.665Z,6c5da280-84ba-4814-84dd-6bec1a6118fe,ZZZ,Malta,mt,109173995615422,James Lawrence,Facebook
-fbbf54bf-ba21-4a92-b25a-dd9ae030295d,Faith Alive Magazine,2023-03-20T10:53:14.795Z,2105a19e-c7df-4506-840c-656c02f42152,ZZZ,Malta,mt,102549451923042,Faith Alive Magazine,Facebook
-5b9b9cf5-0d3d-4b6a-944b-cf62812bd44c,Island Bébé,2023-03-21T10:53:08.194Z,37215406-0a35-46e4-94fd-4cd145be583e,ZZZ,Malta,mt,105385948042520,Island Bébé,Facebook
 9d4c1a1b-04db-4337-a9de-65be254871f1,Maltese Association Of Psychiatry,2023-10-31T05:43:46.914Z,92506403-fbc9-4e50-8bf6-d95e4043da8c,ZZZ,Malta,mt,626844284334526,Maltese Association Of Psychiatry,Facebook
+09c4d4fe-3fa9-4089-9fc3-43786ceda6e0,Pandora Bargain Books,2023-06-19T18:25:04.261Z,3352da3a-28d1-40a6-9a1a-275b234a796b,ZZZ,Malta,mt,630396547099748,Pandora Bargain Books,Facebook
 12b5fd51-5070-4e84-a58f-ce403719ca4d,Dicastery for Promoting Integral Human Development,2023-10-31T05:43:46.948Z,30baee9d-6d55-4f00-bcea-b57ab143abba,ZZZ,Malta,mt,106340331072471,Dicastery for Promoting Integral Human Development,Facebook
+467e165d-64d1-4a87-973e-71e1dee607bb,Malta Health Network (MHN),2023-06-19T18:25:04.312Z,0176bbb1-6399-4191-8be2-faa9588f443f,ZZZ,Malta,mt,204764482888622,Malta Health Network (MHN),Facebook
+0c2a4e97-68f3-45d6-9f77-ac5897e43848,Grant Thornton Malta,2023-06-19T18:25:04.330Z,af84636f-a947-4abb-a9aa-1d383ffa58db,ZZZ,Malta,mt,912045562166686,Grant Thornton Malta,Facebook
 35cf798b-01e3-4a28-8d35-00827b0e3146,Gifts of Faith,2023-03-27T10:53:28.516Z,c2bc9c54-9ca9-48be-aea1-6ed15367947f,ZZZ,Malta,mt,100875525422364,Gifts of Faith,Facebook
+f0a04fa9-ef19-4b74-9d44-4173f7bf64ee,PwC Malta,2023-11-10T05:06:50.591Z,f8cc0214-5a18-4d51-940a-11fa261e5c50,ZZZ,Malta,mt,612635668810661,PwC Malta,Facebook
 1c3b0354-7edb-4c33-9cfb-5a0916612d13,ARUC - Authority for the Responsible Use of Cannabis,2023-03-29T10:53:21.810Z,eb72a8b4-ff66-4db4-ab9f-e0e62844f6de,ZZZ,Malta,mt,113144328333180,ARUC - Authority for the Responsible Use of Cannabis,Facebook
+abbdbec8-2abc-4234-ad1f-6085515450a2,Commission for the Rights of Persons with Disability - CRPD,2023-06-23T05:16:49.675Z,7527132c-e94d-40fd-a914-858bd9491870,ZZZ,Malta,mt,466446316722543,Commission for the Rights of Persons with Disability - CRPD,Facebook
 786f1273-ebaa-46cf-a693-a365ecdaa0dd,PKF Malta,2023-03-28T10:53:18.548Z,6badcf07-bb75-403a-bbe1-4e2bbb1357d0,ZZZ,Malta,mt,1482021845394594,PKF Malta,Facebook
+dfc3cab5-0335-44d5-973e-9bfd85a2a298,Aġenzija Żgħażagħ,2023-06-23T06:17:00.312Z,8dbed220-a2e5-4526-8abe-207ab2df7c0b,ZZZ,Malta,mt,265799430111551,Aġenzija Żgħażagħ,Facebook
 9396fa1f-7db3-4e65-85a0-11678c18941d,Ġulja Holland,2023-04-01T10:53:04.454Z,7f1d98aa-ffeb-46c7-b551-18201140ecfd,ZZZ,Malta,mt,497203080355957,Ġulja Holland,Facebook
+0f87587f-2925-42e3-a97c-b85dd5ff933e,San Blas Valley - Organic Produce,2023-12-14T05:06:55.437Z,23ed66f8-2bad-47cf-a398-61eabcdcca65,ZZZ,Malta,mt,102789487886618,San Blas Valley - Organic Produce,Facebook
 ff6c0efa-5a4f-430a-8605-8e93460f0c3e,Plastoplex,2023-04-04T10:53:29.221Z,5c35f9af-be7a-42dd-84e2-065113ad7948,ZZZ,Malta,mt,102056375850884,Plastoplex,Facebook
+b30731ed-6388-483c-befd-6fbef0f96a93,djbick.com,2023-12-14T05:06:55.447Z,bda65a9e-2ed1-435f-9b4d-49bc9e9b899f,ZZZ,Malta,mt,165201756678005,djbick.com,Facebook
 3e1ffd0c-9cab-4c09-a5bf-35db7e91c5b0,TVMnews,2023-04-04T10:53:29.208Z,f40821a1-c680-4a56-b6a7-349a118e1ae2,ZZZ,Malta,mt,138329512971382,TVMnews,Facebook
 d94ab136-c926-4053-bb83-59cbf82b8b06,Planning Authority,2023-04-09T10:53:17.611Z,be69b425-b315-4a03-82ee-a4c3f0727af4,ZZZ,Malta,mt,128646400494521,Planning Authority,Facebook
+6405ad3b-334b-4a31-88ae-473e657271fd,RSM MT,2023-06-27T06:57:14.352Z,3e75d1e4-b4ad-4314-8a7f-8339672aa9aa,ZZZ,Malta,mt,195421983837062,RSM MT,Facebook
+266d2ea2-239f-432e-96a8-bb3c714525d6,Amnesty International Africa,2023-07-01T05:08:05.318Z,3681a764-23e6-49f7-af4d-799beeaf7a19,ZZZ,Malta,mt,41515121987,Amnesty International Africa,Facebook
 87746f0f-dd1f-46ff-98f2-b2fd11b4775e,WasteServ,2023-11-03T05:07:05.145Z,14967014-a43e-4817-8242-0756cb74c9ab,ZZZ,Malta,mt,197071437064694,WasteServ,Facebook
+d62005af-04e0-4e59-b6c2-766fc3b52d8e,ALDB & Associates,2023-07-01T05:08:05.310Z,ee318778-7653-4f9f-8aa7-6c1b070299bd,ZZZ,Malta,mt,114501608257310,ALDB & Associates,Facebook
 3dec2b90-3aaa-4682-8502-78f12453d33e,KPMG in Malta,2023-10-15T05:06:56.056Z,658fac15-ad18-4d56-9dc5-06df248cb44b,ZZZ,Malta,mt,309498855748504,KPMG in Malta,Facebook
 8fa196c5-6aba-4183-befb-7e7465ddecda,Waggos,2023-11-04T05:06:54.945Z,0611bccf-08cc-4f7f-acd8-fb7ff560b402,ZZZ,Malta,mt,230401577384997,Waggos,Facebook
 0beda1ec-01fc-42cf-9835-0d849e8d6fa4,GuideMeMalta.com,2023-04-19T06:53:13.474Z,1c089653-3b6f-484f-9330-1d32dd71d0c7,ZZZ,Malta,mt,148207999231811,GuideMeMalta.com,Facebook

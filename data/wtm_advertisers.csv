@@ -2,7 +2,6 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 5fe327f2-3165-4336-ae26-ebe432c8df06,Partit Laburista,2022-08-16T15:24:29.698Z,7d63110b-a091-4618-b005-2d6c553c8e94,PL,Malta,mt,162461360451180,Partit Laburista,Facebook
 4bca8b31-7a8f-48c6-b0cd-1e66a9140984,Partit Nazzjonalista,2022-08-16T15:24:29.755Z,011aa2b3-6eba-4952-b2a4-d9a9f785cf01,PN,Malta,mt,159249234115841,Partit Nazzjonalista,Facebook
 086a8231-db07-488c-a49e-ec2b410c1e93,Demokratiku,2022-08-16T15:24:29.784Z,f317f226-3b1a-4020-bebb-dee773e88085,AD+PD,Malta,mt,248442185536257,Demokratiku,Facebook
-b389f4ff-296f-4973-ab9a-a1923b85e4d9,Marc Vella Bonnici,2023-09-08T05:07:04.370Z,1d923a83-8d92-4b57-9477-393deda98538,PL,Malta,mt,160297774146114,Marc Vella Bonnici,Facebook
 b526ea36-aaea-49bf-af32-56d8288bd22f,Miriam Dalli,2023-09-07T05:06:42.217Z,722751c6-c051-4bf6-92f1-ad60084a9114,PL,Malta,mt,277980849002904,Miriam Dalli,Facebook
 2d50e0ab-0a6b-42c2-95d8-b3ec4a08d97a,Perit Toni Bezzina,2023-07-19T06:07:22.781Z,39694534-bea1-4282-9273-8d6d8224ee69,PN,Malta,mt,182685608490046,Perit Toni Bezzina,Facebook
 a714122b-45d2-4336-bda2-40ae1220f5c5,Alex Agius Saliba,2023-02-07T15:04:58.750Z,c9b02294-d23f-4f8d-a426-dafe8bf70583,PL,Malta,mt,656955664383156,Alex Agius Saliba,Facebook
@@ -60,6 +59,8 @@ f219875c-830a-4b43-a204-eb6c28201157,Jo Etienne Abela,2023-11-04T05:06:54.946Z,f
 2b7a0c0d-1a7f-413f-80bc-3a54f335847e,Davina Sammut Hili,2023-10-23T05:06:43.606Z,ce0e37cb-aa70-4f6f-a219-9b15b044e0b9,PL,Malta,mt,1031828193500921,Davina Sammut Hili,Facebook
 bec7eb0e-6b5d-4882-b316-a64c26025ff9,Omar Farrugia,2023-10-08T05:07:19.459Z,2d2cb74b-e86b-4c1c-9621-e704ba1c4eb2,PL,Malta,mt,1735193520033873,Omar Farrugia,Facebook
 b7cd7d72-1511-4390-8a1d-225c85c81c79,Frederick Aquilina,2023-09-22T04:07:23.218Z,6e37158b-6ce5-4080-93a0-5e081d5bca60,PN,Malta,mt,236517837179567,Frederick Aquilina,Facebook
+f50ed7e5-42a5-42f9-9249-a5d6b0e468c3,Sciberras Advocates,2023-05-08T06:53:03.710Z,d30a8251-0669-4a71-83b2-668d3ed2921c,ZZZ,Malta,mt,110537061179011,Sciberras Advocates,Facebook
+b389f4ff-296f-4973-ab9a-a1923b85e4d9,Marc Vella Bonnici,2023-09-08T05:07:04.370Z,1d923a83-8d92-4b57-9477-393deda98538,PL,Malta,mt,160297774146114,Marc Vella Bonnici,Facebook
 f345383a-110e-4995-b9d4-0c26d38cb6a1,jefmalta,2023-08-30T05:06:57.339Z,e6f4f8ec-a9a9-4550-b3a1-05f4a0e0863a,ZZZ,Malta,mt,109552211829355,jefmalta,Facebook
 d57a7cd8-30ae-49d8-88fc-11cf4fc5fe8c,Skills Malta,2023-08-31T06:14:04.914Z,afb50520-67ca-4854-8c81-0f4ac991dcde,ZZZ,Malta,mt,102016540474726,Skills Malta,Facebook
 e700eb89-4e6b-4bc4-8cfe-cd7a8edaabca,End-Racism-MT,2023-07-07T13:16:26.565Z,febe59a9-a968-44cc-bd5a-28bbd10942b4,ZZZ,Malta,mt,101771869551296,End-Racism-MT,Facebook
@@ -190,23 +191,6 @@ b409a044-b489-4945-aa91-d2599356a7eb,M Demajo Wines-Spirits,2023-04-19T06:53:13.
 4cc16d8e-a4a4-4292-a22b-3cc21c12a3f1,Mazars in Malta,2023-11-04T05:06:54.951Z,fdbc4e3f-cec8-4431-83dd-54c822d9a9d8,ZZZ,Malta,mt,1435782506724154,Mazars in Malta,Facebook
 dd196690-e33d-44e0-9e34-f36aa7ba4907,One Art Corridor,2023-04-19T06:53:13.485Z,15d28d86-ad38-43b7-b30e-ffce839c777b,ZZZ,Malta,mt,930789770400131,One Art Corridor,Facebook
 fcad004b-7f5f-44dc-a5b5-8312e73737f3,Spunt.mt,2023-04-23T06:52:50.678Z,2b9fb430-da49-446e-89e9-90bd6be7c9c1,ZZZ,Malta,mt,104345845212790,Spunt.mt,Facebook
-465493af-8cdc-4af7-87d3-26d6fdcef296,Malta National Aquarium,2023-04-25T06:53:01.057Z,32e82c58-ed11-420a-bc68-dcecf8d529f4,ZZZ,Malta,mt,199870126761195,Malta National Aquarium,Facebook
-7efe1cca-90d7-46df-bb29-9ca3de3c14a3,MCESD - Malta Council for Economic and Social Development,2023-04-26T06:53:27.295Z,0cd7f36c-26bb-4702-840c-1c4f50272260,ZZZ,Malta,mt,106086950732457,MCESD - Malta Council for Economic and Social Development,Facebook
-f69b8e2d-57f7-4210-aeae-66ea794d6ea4,GSD Marketing Ltd,2023-04-27T06:53:12.888Z,089726b9-65a2-4cb5-9c8d-9c5bfeeab9d3,ZZZ,Malta,mt,371114723682156,GSD Marketing Ltd,Facebook
-cee73323-9195-4272-8a6d-5a94d51fdafc,Shaun Farrugia,2023-10-17T05:07:02.662Z,b38124b2-035c-4ee0-aa12-78af86753cf1,ZZZ,Malta,mt,130512703481092,Shaun Farrugia,Facebook
-e26e52c1-5881-49a7-af92-873111d41683,Malta Chamber of SMEs,2023-04-29T06:53:12.364Z,140afb35-a857-48f1-9eee-5edd7302cdfb,ZZZ,Malta,mt,453723928015129,Malta Chamber of SMEs,Facebook
-14cc871a-1cab-41b2-97f7-56c2eb0331c7,American Dream,2023-10-17T05:07:02.642Z,ad300a39-e45f-4b52-9d39-057f96e80412,ZZZ,Malta,mt,132106896657132,American Dream,Facebook
-46781666-ca62-4e37-bfcf-5eae11c3a75f,Your Future at Hudson,2023-05-04T06:53:01.399Z,61761d92-078a-47c4-8e30-a44ee21b7805,ZZZ,Malta,mt,100228036316746,Your Future at Hudson,Facebook
-674b0d63-bad4-42cd-a3c3-c49571e4f414,SIGEF,2023-05-05T06:52:55.957Z,3feadbeb-42c9-4cd7-b727-cf44c67085fc,ZZZ,Malta,mt,888418957940829,SIGEF,Facebook
-6c0f8bc2-6e14-4186-b6b3-1be7e3631650,Agrimed Ltd,2023-05-06T06:53:17.232Z,323d4d83-6752-48e5-a640-7acc4a173888,ZZZ,Malta,mt,275613282515416,Agrimed Ltd,Facebook
-1fe17750-3989-4a69-8acb-64e2fe3e9ac5,University of Malta,2023-05-07T06:52:48.667Z,26358792-b8c1-400a-98c0-c45155f4cec8,ZZZ,Malta,mt,295596273786464,University of Malta,Facebook
-37d6a8d9-845f-4a43-8dec-a075d033e69f,Men Against Violence,2023-11-27T07:56:48.836Z,074e4efc-86c9-40f8-ab9b-e30dfa01249b,ZZZ,Malta,mt,1437413136479124,Men Against Violence,Facebook
-8caeea1b-2e70-419e-b38b-6867c1d9cff7,Med-Tech World,2023-12-02T17:14:04.220Z,0c72252d-ffab-40ff-b08b-bff3b011ba28,ZZZ,Malta,mt,380101839432330,Med-Tech World,Facebook
-552d9766-07c7-49ed-bf22-a8a9f8c4ba4a,Sk info,2023-11-17T05:06:47.815Z,caa8b2d4-7ae0-47ca-85ea-79825c294953,ZZZ,Malta,mt,145845325276370,Sk info,Facebook
-495bdd5a-8a4d-4deb-b766-0ecc3485c6a5,Embassy of Palestine - Malta سفارة دولة فلسطين - مالطا,2023-12-05T05:06:50.428Z,92058806-5ed8-4183-bac9-693bc642a6ff,ZZZ,Malta,mt,175083249302249,Embassy of Palestine - Malta سفارة دولة فلسطين - مالطا,Facebook
-3ea4a49b-5b90-49b4-9002-56e3f0a41a4a,News for You,2023-10-21T05:07:34.785Z,ef352e9b-26fc-4c5b-b110-793acb3060dd,ZZZ,Malta,mt,151431174710732,News for You,Facebook
-544c9025-4940-4980-a112-0e1b436fdbb8,Periti Studio,2023-11-20T05:07:13.461Z,da814625-528d-4a78-964d-6b5dfca9f3fb,ZZZ,Malta,mt,193570221552739,Periti Studio,Facebook
-f50ed7e5-42a5-42f9-9249-a5d6b0e468c3,Sciberras Advocates,2023-05-08T06:53:03.710Z,d30a8251-0669-4a71-83b2-668d3ed2921c,ZZZ,Malta,mt,110537061179011,Sciberras Advocates,Facebook
 fe5382cb-44c7-40d5-b45e-0bca6e1a8655,Clarence vlog,2023-12-02T17:14:04.265Z,5c23cb2a-4167-4ccb-bba0-513fb1ab1672,ZZZ,Malta,mt,100450962801901,Clarence vlog,Facebook
 6b0d1e0b-4991-4aca-9b1f-2925508aa839,ERA - Environment & Resources Authority,2023-10-20T05:06:59.935Z,6da7f852-4c90-48e3-8018-978fabef4f68,ZZZ,Malta,mt,104726574715748,ERA - Environment & Resources Authority,Facebook
 287bd107-8290-453c-89aa-bf186198d4e4,GO,2023-05-14T06:53:29.069Z,5a7685f9-8fe2-44cb-b278-37684e0ac34a,ZZZ,Malta,mt,163579466996511,GO,Facebook
@@ -244,21 +228,37 @@ b30731ed-6388-483c-befd-6fbef0f96a93,djbick.com,2023-12-14T05:06:55.447Z,bda65a9
 266d2ea2-239f-432e-96a8-bb3c714525d6,Amnesty International Africa,2023-07-01T05:08:05.318Z,3681a764-23e6-49f7-af4d-799beeaf7a19,ZZZ,Malta,mt,41515121987,Amnesty International Africa,Facebook
 d62005af-04e0-4e59-b6c2-766fc3b52d8e,ALDB & Associates,2023-07-01T05:08:05.310Z,ee318778-7653-4f9f-8aa7-6c1b070299bd,ZZZ,Malta,mt,114501608257310,ALDB & Associates,Facebook
 e05aafd4-f8be-4c46-936c-a56d915c3826,MaltaGov,2023-02-07T15:04:58.659Z,d57560a2-c269-49cf-a1c6-45b94194e746,ZZZ,Malta,mt,735396419870282,MaltaGov,Facebook
-5e86300d-5fa8-4be5-b31a-1e27a62a666c,That Ewe Gal,2023-12-29T05:06:45.574Z,af33c8c5-538a-47cb-a15b-b867a5b3c311,ZZZ,Malta,mt,1637035479846301,That Ewe Gal,Facebook
+465493af-8cdc-4af7-87d3-26d6fdcef296,Malta National Aquarium,2023-04-25T06:53:01.057Z,32e82c58-ed11-420a-bc68-dcecf8d529f4,ZZZ,Malta,mt,199870126761195,Malta National Aquarium,Facebook
+7efe1cca-90d7-46df-bb29-9ca3de3c14a3,MCESD - Malta Council for Economic and Social Development,2023-04-26T06:53:27.295Z,0cd7f36c-26bb-4702-840c-1c4f50272260,ZZZ,Malta,mt,106086950732457,MCESD - Malta Council for Economic and Social Development,Facebook
+f69b8e2d-57f7-4210-aeae-66ea794d6ea4,GSD Marketing Ltd,2023-04-27T06:53:12.888Z,089726b9-65a2-4cb5-9c8d-9c5bfeeab9d3,ZZZ,Malta,mt,371114723682156,GSD Marketing Ltd,Facebook
+cee73323-9195-4272-8a6d-5a94d51fdafc,Shaun Farrugia,2023-10-17T05:07:02.662Z,b38124b2-035c-4ee0-aa12-78af86753cf1,ZZZ,Malta,mt,130512703481092,Shaun Farrugia,Facebook
+e26e52c1-5881-49a7-af92-873111d41683,Malta Chamber of SMEs,2023-04-29T06:53:12.364Z,140afb35-a857-48f1-9eee-5edd7302cdfb,ZZZ,Malta,mt,453723928015129,Malta Chamber of SMEs,Facebook
+14cc871a-1cab-41b2-97f7-56c2eb0331c7,American Dream,2023-10-17T05:07:02.642Z,ad300a39-e45f-4b52-9d39-057f96e80412,ZZZ,Malta,mt,132106896657132,American Dream,Facebook
+46781666-ca62-4e37-bfcf-5eae11c3a75f,Your Future at Hudson,2023-05-04T06:53:01.399Z,61761d92-078a-47c4-8e30-a44ee21b7805,ZZZ,Malta,mt,100228036316746,Your Future at Hudson,Facebook
+674b0d63-bad4-42cd-a3c3-c49571e4f414,SIGEF,2023-05-05T06:52:55.957Z,3feadbeb-42c9-4cd7-b727-cf44c67085fc,ZZZ,Malta,mt,888418957940829,SIGEF,Facebook
+6c0f8bc2-6e14-4186-b6b3-1be7e3631650,Agrimed Ltd,2023-05-06T06:53:17.232Z,323d4d83-6752-48e5-a640-7acc4a173888,ZZZ,Malta,mt,275613282515416,Agrimed Ltd,Facebook
+1fe17750-3989-4a69-8acb-64e2fe3e9ac5,University of Malta,2023-05-07T06:52:48.667Z,26358792-b8c1-400a-98c0-c45155f4cec8,ZZZ,Malta,mt,295596273786464,University of Malta,Facebook
+37d6a8d9-845f-4a43-8dec-a075d033e69f,Men Against Violence,2023-11-27T07:56:48.836Z,074e4efc-86c9-40f8-ab9b-e30dfa01249b,ZZZ,Malta,mt,1437413136479124,Men Against Violence,Facebook
+8caeea1b-2e70-419e-b38b-6867c1d9cff7,Med-Tech World,2023-12-02T17:14:04.220Z,0c72252d-ffab-40ff-b08b-bff3b011ba28,ZZZ,Malta,mt,380101839432330,Med-Tech World,Facebook
+552d9766-07c7-49ed-bf22-a8a9f8c4ba4a,Sk info,2023-11-17T05:06:47.815Z,caa8b2d4-7ae0-47ca-85ea-79825c294953,ZZZ,Malta,mt,145845325276370,Sk info,Facebook
+495bdd5a-8a4d-4deb-b766-0ecc3485c6a5,Embassy of Palestine - Malta سفارة دولة فلسطين - مالطا,2023-12-05T05:06:50.428Z,92058806-5ed8-4183-bac9-693bc642a6ff,ZZZ,Malta,mt,175083249302249,Embassy of Palestine - Malta سفارة دولة فلسطين - مالطا,Facebook
+3ea4a49b-5b90-49b4-9002-56e3f0a41a4a,News for You,2023-10-21T05:07:34.785Z,ef352e9b-26fc-4c5b-b110-793acb3060dd,ZZZ,Malta,mt,151431174710732,News for You,Facebook
+544c9025-4940-4980-a112-0e1b436fdbb8,Periti Studio,2023-11-20T05:07:13.461Z,da814625-528d-4a78-964d-6b5dfca9f3fb,ZZZ,Malta,mt,193570221552739,Periti Studio,Facebook
 9d444e7d-0258-4507-b63a-cef653fcad94,Malta Business Bureau,2023-12-24T05:06:41.085Z,8b690642-e65f-4b57-8228-7c6a34b78246,ZZZ,Malta,mt,138271099580362,Malta Business Bureau,Facebook
-bd8f3549-a054-4c83-81e6-c24c2eb2746e,"ĠEMMA - Know, Plan, Act.",2024-01-12T05:06:21.174Z,7634b811-dc29-4eec-9c08-827ae3e28f59,ZZZ,Malta,mt,368082216959010,"ĠEMMA - Know, Plan, Act.",Facebook
-2f3f195e-f740-4f67-b97f-dba6805c3b3b,St Paul Metropolitan Orchestra,2024-02-19T08:14:29.887Z,0f531e42-99ae-417f-8937-e7c6cfce7ed8,ZZZ,Malta,mt,196814580651185,St Paul Metropolitan Orchestra,Facebook
+5e86300d-5fa8-4be5-b31a-1e27a62a666c,That Ewe Gal,2023-12-29T05:06:45.574Z,af33c8c5-538a-47cb-a15b-b867a5b3c311,ZZZ,Malta,mt,1637035479846301,That Ewe Gal,Facebook
 ffeed890-3b20-49c4-86e1-19eda267e537,doinggoodassoc,2024-02-16T06:05:50.457Z,94b48fd4-2762-458c-9a6f-0d5641e61de6,ZZZ,Malta,mt,103345116035556,doinggoodassoc,Facebook
+bd8f3549-a054-4c83-81e6-c24c2eb2746e,"ĠEMMA - Know, Plan, Act.",2024-01-12T05:06:21.174Z,7634b811-dc29-4eec-9c08-827ae3e28f59,ZZZ,Malta,mt,368082216959010,"ĠEMMA - Know, Plan, Act.",Facebook
 99761209-5f0f-4bd9-b04e-e5b36a826ede,IWorld global,2023-12-16T05:06:54.222Z,7c28bb31-58a8-40dc-ae7f-cb0134aea8d3,ZZZ,Malta,mt,183654058164568,IWorld global,Facebook
-c6db00a2-c52c-47fd-b949-85fffa04770b,Clinipath Services,2024-02-19T08:14:29.898Z,afa19365-da05-497f-9d91-5783c5ca6a34,ZZZ,Malta,mt,628060214492966,Clinipath Services,Facebook
+2f3f195e-f740-4f67-b97f-dba6805c3b3b,St Paul Metropolitan Orchestra,2024-02-19T08:14:29.887Z,0f531e42-99ae-417f-8937-e7c6cfce7ed8,ZZZ,Malta,mt,196814580651185,St Paul Metropolitan Orchestra,Facebook
 7d6c3ae0-0366-4304-9152-17810858310a,thescandalouswoman,2024-01-12T05:06:21.176Z,fc0deecd-f924-42dc-b163-553b55e59d6c,ZZZ,Malta,mt,166995023172723,thescandalouswoman,Facebook
-5e3da2f7-88ce-434b-a195-796a65b7f456,Soċjetà Mużikali San Ġużepp Ħamrun - A.D. 1889,2023-11-24T05:07:42.378Z,dfc504e5-7ed8-4bf2-9dd8-22e6239c640f,ZZZ,Malta,mt,749269698475069,Soċjetà Mużikali San Ġużepp Ħamrun - A.D. 1889,Facebook
+c6db00a2-c52c-47fd-b949-85fffa04770b,Clinipath Services,2024-02-19T08:14:29.898Z,afa19365-da05-497f-9d91-5783c5ca6a34,ZZZ,Malta,mt,628060214492966,Clinipath Services,Facebook
 f73bdcdf-8e44-45af-8862-b0f875c6ee61,Base Malta,2023-11-27T05:07:15.431Z,c916c605-15d2-45bb-9c44-3ed70e4caff9,ZZZ,Malta,mt,294336967357438,Base Malta,Facebook
+5e3da2f7-88ce-434b-a195-796a65b7f456,Soċjetà Mużikali San Ġużepp Ħamrun - A.D. 1889,2023-11-24T05:07:42.378Z,dfc504e5-7ed8-4bf2-9dd8-22e6239c640f,ZZZ,Malta,mt,749269698475069,Soċjetà Mużikali San Ġużepp Ħamrun - A.D. 1889,Facebook
 ce9cb82e-a950-4839-8613-7254e76a12d9,Clint Azzopardi Flores,2023-12-24T05:06:41.078Z,fa4c05a0-1e8c-4bac-9b79-179c85c271d1,ZZZ,Malta,mt,259805074183679,Clint Azzopardi Flores,Facebook
+ab885337-5890-44e0-972e-bc802f955c05,EY Malta,2024-02-19T03:11:07.369Z,2d4b7de9-4eb1-4893-a9f5-7c4e1bd025a5,ZZZ,Malta,mt,320471281420565,EY Malta,Facebook
 baa36461-6e34-4895-b2da-76ad5a595177,sara.islamzakria,2024-02-19T08:14:29.913Z,cf04e705-3f40-496f-b16d-9f8bcaf50f1e,ZZZ,Malta,mt,215283135007068,sara.islamzakria,Facebook
+d3e6e828-80db-465f-9226-173d1e865c0c,Mercury Malta,2023-12-25T05:06:50.738Z,988142c2-f5ea-4932-86b2-87a8744a9383,ZZZ,Malta,mt,107715867733097,Mercury Malta,Facebook
 64584423-6984-4725-a414-ec39e1c6ce3a,Philosophy Sharing Malta,2024-01-03T05:06:35.633Z,b4b865c1-6fac-4cfb-8e30-671eb8a12260,ZZZ,Malta,mt,1173724952658306,Philosophy Sharing Malta,Facebook
 0f5596b8-cf5d-4666-b7a0-2583485cde37,Electoral Commission of Malta,2024-02-23T03:32:55.490Z,38b4b051-7bf2-4bc9-9282-04898efcd28d,Oth,Malta,mt,592268180915571,Electoral Commission of Malta,Facebook
-ab885337-5890-44e0-972e-bc802f955c05,EY Malta,2024-02-19T03:11:07.369Z,2d4b7de9-4eb1-4893-a9f5-7c4e1bd025a5,ZZZ,Malta,mt,320471281420565,EY Malta,Facebook
-d3e6e828-80db-465f-9226-173d1e865c0c,Mercury Malta,2023-12-25T05:06:50.738Z,988142c2-f5ea-4932-86b2-87a8744a9383,ZZZ,Malta,mt,107715867733097,Mercury Malta,Facebook
 2550005e-b801-410b-864c-b1cfd13f8c59,CineClub Malta,2023-12-15T05:06:58.517Z,174509bf-8500-45bc-bc6a-89affa1193eb,ZZZ,Malta,mt,114476828361853,CineClub Malta,Facebook
 a98fa866-82ec-40ce-8df8-7bdf56a79cb6,Anzjanità Attiva,2023-05-25T06:53:20.755Z,27ae491b-62c0-4dbf-9f20-ef7473a7a829,ZZZ,Malta,mt,105399887857882,Anzjanità Attiva,Facebook
